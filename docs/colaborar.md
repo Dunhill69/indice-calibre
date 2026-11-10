@@ -4,27 +4,35 @@ title: Cómo colaborar
 
 # Cómo colaborar
 
-Este índice lo armamos entre todos. Hay varias formas de ayudar:
+Este índice lo armamos entre todos y **se aceptan tutoriales en cualquier idioma**.
+Todo se hace desde GitHub; solo necesitás una cuenta gratuita.
 
-## Sumar un tutorial
+!!! info "Contributing in other languages"
+    Tutorials are welcome **in any language**. Use the buttons below: the forms are in Spanish and English.
 
-1. Escribí tu tutorial en [Telegraph](https://telegra.ph){ target=_blank } (o donde te resulte cómodo).
-   Si nunca lo usaste, hay una guía: [Crear tutorial en Telegraph](https://telegra.ph/Crear-tutorial-en-telegraph-03-30){ target=_blank }.
-2. Pasá el enlace en el [grupo de Telegram](https://t.me/calibreconfiguraciones){ target=_blank }.
-3. Un administrador lo revisa y lo agrega al índice, con tu nombre.
+## Enviar un tutorial
 
-## Avisar de un enlace roto o un error
+[:material-plus-circle: Enviar un tutorial / Submit a tutorial](https://github.com/Dunhill69/indice-calibre/issues/new?template=nuevo-tutorial.yml){ .md-button .md-button--primary target=_blank }
 
-Si un tutorial ya no abre o está desactualizado, avisá en el grupo indicando cuál es.
+1. Completá el formulario: título, idioma, tema y el contenido paso a paso.
+2. Las capturas de pantalla se **pegan (Ctrl+V) o se arrastran** dentro del cuadro de contenido.
+3. Un administrador lo revisa. Cuando lo aprueba, se publica solo en el índice con tu nombre y
+   te llega un aviso en GitHub.
 
-## Si sabés usar GitHub
+## Avisar de un problema
 
-Podés proponer el cambio directamente: los tutoriales están en el archivo
+¿Un enlace roto, un error o un tutorial desactualizado?
+
+[:material-wrench: Reportar un problema / Report a problem](https://github.com/Dunhill69/indice-calibre/issues/new?template=reportar-problema.yml){ .md-button target=_blank }
+
+## Si ya usás GitHub
+
+También podés proponer cambios directamente: la lista está en
 [`datos/indice.yml`](https://github.com/Dunhill69/indice-calibre/blob/main/datos/indice.yml){ target=_blank }
-del repositorio. Una línea por tutorial; el sitio se ordena y actualiza solo.
+y cada tutorial en su carpeta dentro de `docs/tutoriales/`.
 
 ## Licencia
 
-Cada tutorial pertenece a su autor. Salvo que el autor indique otra cosa, el contenido se comparte bajo
+Cada tutorial pertenece a su autor y se comparte bajo
 [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es){ target=_blank }:
 se puede copiar y adaptar, siempre citando al autor y compartiendo con la misma licencia.

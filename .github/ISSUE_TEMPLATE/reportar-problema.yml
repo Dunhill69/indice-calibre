@@ -1,0 +1,18 @@
+name: 🔧 Reportar un problema / Report a problem
+description: Un enlace roto, un error o un tutorial desactualizado. · A broken link, an error or an outdated tutorial.
+title: "[Problema] "
+labels: ["problema"]
+body:
+  - type: input
+    id: tutorial
+    attributes:
+      label: ¿Qué tutorial? / Which tutorial?
+      description: Título o enlace. · Title or link.
+    validations:
+      required: true
+  - type: textarea
+    id: detalle
+    attributes:
+      label: ¿Qué pasa? / What's wrong?
+    validations:
+      required: true

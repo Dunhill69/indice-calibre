@@ -1,5 +1,7 @@
 name: Publicar el sitio
 
+# Se ejecuta solo cada vez que se sube un cambio a la rama main,
+# y también se puede lanzar a mano desde la pestaña "Actions".
 on:
   push:
     branches: [main]

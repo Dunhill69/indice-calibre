@@ -1,0 +1,83 @@
+name: 📝 Nuevo tutorial / New tutorial
+description: Enviá un tutorial de Calibre, en cualquier idioma. · Submit a Calibre tutorial, in any language.
+title: "[Tutorial] "
+labels: ["nuevo tutorial"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ¡Gracias por colaborar! Completá el formulario y un administrador lo revisará. Cuando se apruebe, se publica en el índice con tu nombre.
+        Podés escribir en **cualquier idioma**. Las imágenes se pegan (Ctrl+V) o se arrastran dentro del cuadro de contenido.
+
+        *Thanks for contributing! Fill in the form and an administrator will review it. Once approved, it will be published in the index with your name. You can write in **any language**. Paste (Ctrl+V) or drag images into the content box.*
+  - type: input
+    id: titulo
+    attributes:
+      label: Título del tutorial / Tutorial title
+      placeholder: "Ej.: Colorear filas según el estado de lectura"
+    validations:
+      required: true
+  - type: dropdown
+    id: idioma
+    attributes:
+      label: Idioma / Language
+      options:
+        - Español
+        - English
+        - Português
+        - Français
+        - Italiano
+        - Deutsch
+        - Català
+        - Otro / Other
+      default: 0
+    validations:
+      required: true
+  - type: dropdown
+    id: temas
+    attributes:
+      label: Tema / Topic
+      description: Podés elegir más de uno. · You can choose more than one.
+      multiple: true
+      options:
+        - Primeros pasos e instalación
+        - Bibliotecas, copias y sincronización
+        - Agregar e importar libros
+        - Metadatos, autores y series
+        - Etiquetas, búsquedas y bibliotecas virtuales
+        - Columnas personalizadas
+        - Apariencia, colores e íconos
+        - Conversión y formatos
+        - Edición y arreglo de libros
+        - Lectura, visor, voz y diccionarios
+        - Kindle
+        - Kobo
+        - PocketBook
+        - Móviles, nube y otros lectores
+        - Correo y servidor web
+        - Complementos (plugins)
+    validations:
+      required: true
+  - type: input
+    id: autor
+    attributes:
+      label: Nombre a mostrar como autor (opcional) / Author name to display (optional)
+      description: Si lo dejás vacío se usa tu usuario de GitHub. · If empty, your GitHub username is used.
+      placeholder: "@usuario"
+  - type: textarea
+    id: contenido
+    attributes:
+      label: Contenido / Content
+      description: Explicá paso a paso. Pegá o arrastrá las capturas acá. · Explain step by step. Paste or drag screenshots here.
+      placeholder: |
+        Paso 1: ...
+        Paso 2: ...
+    validations:
+      required: true
+  - type: checkboxes
+    id: licencia
+    attributes:
+      label: Licencia / License
+      options:
+        - label: Acepto que mi tutorial se publique bajo CC BY-SA 4.0, con mi nombre como autor. · I agree to publish my tutorial under CC BY-SA 4.0, credited to me.
+          required: true

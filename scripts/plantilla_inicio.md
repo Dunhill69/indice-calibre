@@ -8,8 +8,8 @@ hide:
 
 # Índice Calibre en Español
 
-Tutoriales de Calibre escritos por los miembros del grupo de Telegram
-**Calibre en Español**. Es un trabajo en conjunto: cada tutorial lleva el nombre de quien lo escribió.
+Tutoriales de Calibre escritos por la comunidad, nacidos en el grupo de Telegram **Calibre en Español**.
+Es un trabajo en conjunto: cada tutorial lleva el nombre de quien lo escribió.
 
 <div class="grid cards" markdown>
 
@@ -39,8 +39,9 @@ Tutoriales de Calibre escritos por los miembros del grupo de Telegram
 
 </div>
 
-## ¿Tenés una duda que no está acá?
+## ¿Escribiste un tutorial?
 
-Preguntá en el grupo: [:fontawesome-brands-telegram: Calibre en Español](https://t.me/calibreconfiguraciones){{ .md-button .md-button--primary target=_blank }}
+Sumalo al índice desde GitHub, en el idioma que quieras: [:material-plus-circle: Enviar un tutorial](https://github.com/Dunhill69/indice-calibre/issues/new?template=nuevo-tutorial.yml){{ .md-button .md-button--primary target=_blank }}
 
-¿Escribiste un tutorial y querés sumarlo? Mirá [cómo colaborar](colaborar.md).
+Más detalles en [cómo colaborar](colaborar.md). Si hablás español, también podés sumarte al
+[:fontawesome-brands-telegram: grupo de Telegram Calibre en Español](https://t.me/calibreconfiguraciones){{ target=_blank }}.

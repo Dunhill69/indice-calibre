@@ -1,0 +1,82 @@
+name: Publicar tutorial aprobado
+
+# Se ejecuta cuando el dueño del repositorio pone la etiqueta "aprobado"
+# en un formulario de "Nuevo tutorial".
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+concurrency:
+  group: tutorial-aprobado
+  cancel-in-progress: false
+
+jobs:
+  agregar:
+    if: >-
+      github.event.label.name == 'aprobado' &&
+      github.event.sender.login == github.repository_owner &&
+      startsWith(github.event.issue.title, '[Tutorial]')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+
+      - name: Crear el tutorial
+        id: crear
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_USER: ${{ github.event.issue.user.login }}
+        run: |
+          ruta=$(python scripts/desde_issue.py 2> registro.txt) || { cat registro.txt; exit 1; }
+          cat registro.txt
+          echo "ruta=$ruta" >> "$GITHUB_OUTPUT"
+
+      - name: Comprobar que el sitio se arma bien
+        run: |
+          pip install -r requirements.txt
+          python scripts/generar.py
+          mkdocs build
+
+      - name: Guardar en el repositorio
+        env:
+          NUMERO: ${{ github.event.issue.number }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add datos/indice.yml docs/tutoriales
+          git commit -m "Agregar tutorial del issue #$NUMERO"
+          git push
+
+      - name: Publicar el sitio
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run publicar.yml --ref main
+
+      - name: Avisar y cerrar
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NUMERO: ${{ github.event.issue.number }}
+          RUTA: ${{ steps.crear.outputs.ruta }}
+        run: |
+          url="https://dunhill69.github.io/indice-calibre/$RUTA"
+          gh issue comment "$NUMERO" --repo "$GITHUB_REPOSITORY" --body "✅ ¡Gracias! El tutorial fue aprobado y en un par de minutos estará publicado en: $url
+
+          *Thanks! Your tutorial was approved and will be published in a couple of minutes at the link above.*"
+          gh issue close "$NUMERO" --repo "$GITHUB_REPOSITORY" --reason completed
+
+      - name: Avisar si algo falló
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NUMERO: ${{ github.event.issue.number }}
+        run: |
+          gh issue comment "$NUMERO" --repo "$GITHUB_REPOSITORY" --body "⚠️ No se pudo publicar automáticamente. El administrador lo va a revisar. · Automatic publishing failed; an administrator will check it." || true

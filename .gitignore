@@ -1,0 +1,6 @@
+# Sitio construido y páginas generadas por scripts/generar.py
+site/
+docs/index.md
+docs/alfabetico.md
+docs/temas/
+__pycache__/

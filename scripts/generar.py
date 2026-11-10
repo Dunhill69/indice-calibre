@@ -64,23 +64,28 @@ def origen(url: str) -> str:
         return "Teletype"
     if url.startswith(("http://", "https://")):
         return url.split("/")[2]
-    return "En este sitio"
+    return "Copia en el sitio"
 
 
-def renglon(t: dict) -> str:
+def renglon(t: dict, prefijo: str = "") -> str:
+    """prefijo: cómo llegar a docs/ desde la página donde va el renglón ("" o "../")."""
     titulo = escapar(t["titulo"])
     if t.get("url"):
         url = t["url"]
         externo = url.startswith(("http://", "https://"))
+        if not externo:
+            url = prefijo + url
         destino = "{ target=_blank rel=noopener }" if externo else ""
         partes = [f"[{titulo}]({url}){destino}"]
     else:
         partes = [f'<span class="tut-sin-enlace">{titulo}</span>']
     if t.get("autor"):
         partes.append(f'<span class="tut-autor">por {escapar(t["autor"])}</span>')
+    if t.get("idioma") and t["idioma"] != "es":
+        partes.append(f'<span class="tut-idioma" title="Idioma del tutorial">{t["idioma"].upper()}</span>')
     if t.get("nota"):
         partes.append(f'<span class="tut-nota">{escapar(t["nota"])}</span>')
-    if t.get("url"):
+    if t.get("url", "").startswith(("http://", "https://")):
         partes.append(f'<span class="tut-origen">{origen(t["url"])}</span>')
     return "- " + " ".join(partes)
 
@@ -107,6 +112,8 @@ def cargar():
             if url in vistos_url:
                 errores.append(f"«{nombre}»: el enlace está repetido (también en «{vistos_url[url]}»).")
             vistos_url[url] = nombre
+            if not url.startswith(("http://", "https://")) and not (DOCS / url).exists():
+                errores.append(f"«{nombre}»: no existe el archivo docs/{url}.")
 
     if errores:
         print("Hay problemas en datos/indice.yml:\n  - " + "\n  - ".join(errores), file=sys.stderr)
@@ -157,7 +164,7 @@ def paginas_temas(temas, tutoriales) -> dict[str, str]:
 
         cuerpo = ["---", f"title: {info['nombre']}", "---", AVISO,
                   f"# {icono} {info['nombre']}", "", f"{cuantos} sobre este tema.", ""]
-        cuerpo += [renglon(t) for t in lista] or ["*Todavía no hay tutoriales en este tema.*"]
+        cuerpo += [renglon(t, "../") for t in lista] or ["*Todavía no hay tutoriales en este tema.*"]
         cuerpo += ["", "[:material-arrow-left: Todos los temas](index.md)", ""]
         paginas[f"{clave}.md"] = "\n".join(cuerpo)
 
