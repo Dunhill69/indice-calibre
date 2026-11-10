@@ -1,0 +1,121 @@
+site_name: Índice Calibre en Español
+site_description: Tutoriales de Calibre escritos por los miembros del grupo de Telegram Calibre en Español.
+site_author: Walter (Dunhill)
+# Dirección final del sitio. Si cambiás el nombre del repositorio, cambiala acá también.
+site_url: https://dunhill69.github.io/indice-calibre/
+repo_url: https://github.com/Dunhill69/indice-calibre
+repo_name: Dunhill69/indice-calibre
+edit_uri: ""
+copyright: Cada tutorial pertenece a su autor · Índice mantenido por el grupo Calibre en Español
+
+theme:
+  name: material
+  language: es
+  icon:
+    logo: material/bookshelf
+    alternate: material/translate
+    repo: fontawesome/brands/github
+  favicon: assets/favicon.svg
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Cambiar a modo claro
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo oscuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Usar el modo del sistema
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.top
+    - navigation.instant
+    - search.suggest
+    - search.highlight
+    - toc.follow
+
+nav:
+  - Inicio: index.md
+  - Índice A–Z: alfabetico.md
+  - Por tema:
+      - temas/index.md
+      - Primeros pasos e instalación: temas/inicio.md
+      - Bibliotecas, copias y sincronización: temas/biblioteca.md
+      - Agregar e importar libros: temas/agregar.md
+      - Metadatos, autores y series: temas/metadatos.md
+      - Etiquetas, búsquedas y bibliotecas virtuales: temas/etiquetas.md
+      - Columnas personalizadas: temas/columnas.md
+      - Apariencia, colores e íconos: temas/apariencia.md
+      - Conversión y formatos: temas/conversion.md
+      - Edición y arreglo de libros: temas/edicion.md
+      - Lectura, visor, voz y diccionarios: temas/lectura.md
+      - Kindle: temas/kindle.md
+      - Kobo: temas/kobo.md
+      - PocketBook: temas/pocketbook.md
+      - Móviles, nube y otros lectores: temas/moviles.md
+      - Correo y servidor web: temas/correo.md
+      - Complementos (plugins): temas/complementos.md
+  - Cómo colaborar: colaborar.md
+
+plugins:
+  - search:
+      lang: es
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: false
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  # Botón de traducción (ícono de idiomas arriba a la derecha).
+  # El enlace real lo arma docs/javascripts/traducir.js con Google Traductor.
+  alternate:
+    - name: Español (original)
+      link: ./
+      lang: es
+    - name: English
+      link: ./
+      lang: en
+    - name: Português
+      link: ./
+      lang: pt
+    - name: Français
+      link: ./
+      lang: fr
+    - name: Italiano
+      link: ./
+      lang: it
+    - name: Deutsch
+      link: ./
+      lang: de
+    - name: Català
+      link: ./
+      lang: ca
+  social:
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/calibreconfiguraciones
+      name: Grupo Calibre en Español
+    - icon: fontawesome/brands/github
+      link: https://github.com/Dunhill69
+      name: Dunhill69 en GitHub
+  generator: false
+
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/traducir.js
+  - javascripts/filtro.js

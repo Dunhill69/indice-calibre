@@ -1,0 +1,50 @@
+# Temas del índice. La clave (izquierda) es la que se usa en indice.yml.
+# El orden de esta lista es el orden en que aparecen en el sitio.
+inicio:
+  nombre: Primeros pasos e instalación
+  icono: material/rocket-launch
+biblioteca:
+  nombre: Bibliotecas, copias y sincronización
+  icono: material/bookshelf
+agregar:
+  nombre: Agregar e importar libros
+  icono: material/book-plus
+metadatos:
+  nombre: Metadatos, autores y series
+  icono: material/card-account-details
+etiquetas:
+  nombre: Etiquetas, búsquedas y bibliotecas virtuales
+  icono: material/tag-multiple
+columnas:
+  nombre: Columnas personalizadas
+  icono: material/table-column-plus-after
+apariencia:
+  nombre: Apariencia, colores e íconos
+  icono: material/palette
+conversion:
+  nombre: Conversión y formatos
+  icono: material/file-swap
+edicion:
+  nombre: Edición y arreglo de libros
+  icono: material/book-edit
+lectura:
+  nombre: Lectura, visor, voz y diccionarios
+  icono: material/book-open-page-variant
+kindle:
+  nombre: Kindle
+  icono: material/tablet
+kobo:
+  nombre: Kobo
+  icono: material/tablet
+pocketbook:
+  nombre: PocketBook
+  icono: material/tablet
+moviles:
+  nombre: Móviles, nube y otros lectores
+  icono: material/cellphone
+correo:
+  nombre: Correo y servidor web
+  icono: material/email-fast
+complementos:
+  nombre: Complementos (plugins)
+  icono: material/puzzle

@@ -1,0 +1,279 @@
+# Índice de tutoriales de Calibre en Español
+# ------------------------------------------
+# Cada tutorial es una línea. Campos:
+#   titulo:  nombre que se muestra (obligatorio)
+#   url:     enlace al tutorial (Telegraph, Teletype o una página del sitio)
+#   autor:   usuario de Telegram de quien lo escribió (opcional)
+#   temas:   una o más claves de datos/temas.yml (obligatorio)
+#   nota:    aclaración breve que se muestra al lado (opcional)
+#
+# No hace falta ordenar: el sitio ordena alfabéticamente solo.
+
+- {titulo: "Abrir libro al azar con Calibre", url: "https://telegra.ph/Abrir-libro-al-azar-09-19", temas: [lectura]}
+- {titulo: "Actualizar Calibre (v.3.48)", nota: "removido por desactualizado", temas: [inicio]}
+- {titulo: "Actualizar Calibre portable", url: "https://telegra.ph/Actualizar-Calibre-portable-Windows-02-16", temas: [inicio]}
+- {titulo: "Administrar etiquetas", url: "https://teletype.in/@dunhill/Z6Z39rwIrTX", temas: [etiquetas]}
+- {titulo: "Agregar libros automáticamente", url: "https://telegra.ph/Agregar-libros-autom%C3%A1ticamente-08-15", temas: [agregar]}
+- {titulo: "Agregar fuentes a tu dispositivo de lectura", url: "https://telegra.ph/Agregar-fuentes-a-tu-dispositivo-de-lectura-10-07", temas: [moviles]}
+- {titulo: "Agregar íconos en menú contextual", url: "https://telegra.ph/Agregar-iconos-en-men%C3%BA-contextual-06-03", temas: [apariencia]}
+- {titulo: "Añadir libros, ¿cómo se hace?", url: "https://telegra.ph/Como-a%C3%B1adir-libros-a-Calibre-01-23", temas: [agregar, inicio]}
+- {titulo: "Añadir un diccionario en Calibre", url: "https://telegra.ph/Agregar-diccionarios-a-Calibre-02-01", temas: [lectura]}
+- {titulo: "Alertas en Calibre", url: "https://telegra.ph/Alertas-en-Calibre-01-06", temas: [inicio]}
+- {titulo: "Apellido de autores", url: "https://telegra.ph/Apellido-de-Autores-08-16", temas: [metadatos]}
+- {titulo: "Artículo en el título", url: "https://telegra.ph/Articulo-en-el-t%C3%ADtulo-08-16", temas: [metadatos]}
+- {titulo: "Audiolibros", url: "https://telegra.ph/Audiolibros-08-16", temas: [agregar]}
+- {titulo: "Autor - Mi nombre", url: "https://telegra.ph/Autor---Mi-nombre-12-12", temas: [metadatos]}
+- {titulo: "Autores secundarios - evitar doble carpeta", url: "https://telegra.ph/Autores-secundarios---evitar-doble-carpeta-12-24", temas: [metadatos, biblioteca]}
+- {titulo: "Archivo original (original_epub)", url: "https://telegra.ph/Archivo-original-original-epub-08-15", temas: [conversion]}
+- {titulo: "Arreglo de imágenes dentro del libro", url: "https://telegra.ph/Arreglo-de-imagenes-dentro-del-libro-02-03", autor: "@betty", temas: [edicion]}
+- {titulo: "Atajos de teclado", url: "https://telegra.ph/Atajos-de-Teclado-08-15", temas: [inicio]}
+- {titulo: "Año publicado en etiqueta", url: "https://telegra.ph/A%C3%B1o-publicado-etiqueta-08-15", temas: [etiquetas]}
+- {titulo: "AZW3: evitar poner índice", url: "https://telegra.ph/Azw3-evitar-poner-indice-01-14", temas: [conversion, kindle]}
+- {titulo: "AZW3: cómo enviarlo al Kindle", url: "https://telegra.ph/AZW3-Como-enviarlo-al-Kindle-por-moscon-10-24", autor: "@moscon", temas: [kindle]}
+- {titulo: "AZW3: solo por cable", url: "https://telegra.ph/AZW3-Solo-por-cable-10-24", autor: "@SrPelosNecios", temas: [kindle]}
+
+- {titulo: "Barra de herramientas secundaria", url: "https://telegra.ph/Barra-de-Herramienta-secundaria-10-24", temas: [apariencia]}
+- {titulo: "Barra de herramientas - ubicar íconos", url: "https://telegra.ph/Barra-de-herramientas-Cambiar-ubicaci%C3%B3n-de-iconos-12-15", temas: [apariencia]}
+- {titulo: "Barra de herramientas - ver más íconos", url: "https://telegra.ph/Barra-de-herramientas---Ver-m%C3%A1s-iconos-02-06", autor: "@Llogur", temas: [apariencia]}
+- {titulo: "Base de datos corrupta, cómo recuperarla", url: "https://telegra.ph/Como-recuperar-una-base-de-datos-corrupta-10-12", autor: "@wiso_wolo", temas: [biblioteca]}
+- {titulo: "Bat para actualizar Calibre (Windows)", url: "https://telegra.ph/Bat-para-autoactualizar-Calibre-Windows-09-04", autor: "@wiso_wolo", temas: [inicio]}
+- {titulo: "Bibliografía de autor", url: "https://telegra.ph/Poner-bio-del-autor-en-todos-sus-libros-10-18", temas: [metadatos]}
+- {titulo: "Biblioteca con características", url: "https://telegra.ph/Biblioteca-con-caracter%C3%ADsticas-08-16", temas: [biblioteca]}
+- {titulo: "Biblioteca por defecto", url: "https://telegra.ph/Biblioteca-por-defecto-08-16", temas: [biblioteca]}
+- {titulo: "Biblioteca en la nube", url: "https://telegra.ph/Biblioteca-en-la-nube-08-17", temas: [biblioteca, moviles]}
+- {titulo: "Biblioteca - moverla de ubicación", url: "https://telegra.ph/Biblioteca---Moverla-de-ubicaci%C3%B3n-09-05", temas: [biblioteca]}
+- {titulo: "Biblioteca Telegram", url: "https://telegra.ph/Biblioteca-Telegram-08-16", temas: [biblioteca]}
+- {titulo: "Bibliotecas virtuales - búsquedas guardadas", url: "https://telegra.ph/Bibliotecas-Virtuales--Busquedas-guardadas-10-26", autor: "@Inatxo", temas: [etiquetas]}
+- {titulo: "Bibliotecas virtuales - creación", url: "https://telegra.ph/Biblioteca-Virtual---Creaci%C3%B3n-11-25", temas: [etiquetas]}
+- {titulo: "Botones de distribución, cómo se usan", url: "https://telegra.ph/Botones-de-Distribuci%C3%B3n-10-08", temas: [apariencia]}
+- {titulo: "Buscar duplicados entre dos bibliotecas", url: "https://telegra.ph/Buscar-Duplicados-entre-dos-bibliotecas-08-25", temas: [biblioteca]}
+- {titulo: "Búsquedas avanzadas", url: "https://teletype.in/@dunhill69/oFhGKLO90pQ", temas: [etiquetas]}
+- {titulo: "Búsquedas especiales", url: "https://telegra.ph/B%C3%BAsquedas-especiales-08-16", temas: [etiquetas]}
+- {titulo: "Buscar por dos etiquetas", url: "https://telegra.ph/Buscar-por-dos-etiquetas-02-16", autor: "@enebat", temas: [etiquetas]}
+
+- {titulo: "Cambiar íconos de Calibre", url: "https://telegra.ph/Cambiar-Iconos-de-Calibre-10-18", autor: "@Llogur", temas: [apariencia]}
+- {titulo: "Cambiar el idioma de un ebook desde Calibre", url: "https://telegra.ph/Como-cambiar-el-idioma-de-ebook-desde-Calibre-01-31", temas: [metadatos]}
+- {titulo: "Cambiar fuentes en columnas", url: "https://telegra.ph/Cambio-de-fuentes-en-Columnas-04-23", temas: [apariencia, columnas]}
+- {titulo: "Calibre Companion", url: "https://telegra.ph/Calibre-companion-08-17", temas: [moviles]}
+- {titulo: "Calibre nos lee en voz alta", url: "https://telegra.ph/Calibre-nos-lee-en-voz-alta-09-19", temas: [lectura]}
+- {titulo: "Calibre no reconoce mi Kindle", url: "https://telegra.ph/Calibre-no-reconoce-mi-kindle-11-03", temas: [kindle]}
+- {titulo: "Calibre servidor web", url: "https://telegra.ph/Calibre-servidor-web-08-17", temas: [correo]}
+- {titulo: "Calcular días de lectura", url: "https://telegra.ph/Calcula-d%C3%ADas-de-lectura-09-09", temas: [columnas]}
+- {titulo: "Calcular tiempo de lectura", url: "https://telegra.ph/Calcular-tiempo-de-Lectura-11-06", temas: [columnas]}
+- {titulo: "Carpeta de configuración de Calibre (Windows 10)", url: "https://telegra.ph/Carpeta-de-configuraci%C3%B3n-de-Calibre--win-10-08-27", temas: [inicio]}
+- {titulo: "Colorear filas", url: "https://telegra.ph/Colorear-Filas-09-14", temas: [apariencia]}
+- {titulo: "Colorear título de libros sin etiqueta", url: "https://telegra.ph/Regla-para-los-libros-sin-etiqueta-11-13", autor: "@wiso_wolo", temas: [apariencia]}
+- {titulo: "Colorear estrellas de calificación", url: "https://telegra.ph/Colorear-Estrellas-de-Calificaciones-01-18", temas: [apariencia]}
+- {titulo: "Colorear con reglas", url: "https://telegra.ph/Colorear-con-reglas-08-27", autor: "@LorenzoGar", temas: [apariencia]}
+- {titulo: "Colorear con reglas (Colorines)", url: "https://telegra.ph/Colirines-08-27", temas: [apariencia]}
+- {titulo: "Columnas ocultas", url: "https://telegra.ph/Columnas-ocultas-08-17", temas: [columnas]}
+- {titulo: "Columna personalizada - Audiolibros", url: "https://telegra.ph/Columnas-personalizadas---Audiolibros-08-13", temas: [columnas]}
+- {titulo: "Columna personalizada - Biografía del autor (sin complemento)", url: "https://telegra.ph/Columna-personalizada-Biograf%C3%ADa-Autor-02-03", temas: [columnas, metadatos]}
+- {titulo: "Columna personalizada - Estado del libro", url: "https://telegra.ph/Columna-Personalizada---Estado-del-libro-08-17", temas: [columnas]}
+- {titulo: "Columna personalizada - Datos del libro", url: "https://telegra.ph/Columna-Personalizada---Datos-del-libro-09-20", temas: [columnas]}
+- {titulo: "Columna personalizada - Tamaño en KB", url: "https://telegra.ph/Columna-Personalizada---Tama%C3%B1o-en-kb-08-27", temas: [columnas]}
+- {titulo: "Columna personalizada - Me gusta / No me gusta", url: "https://telegra.ph/Columnas-de-me-gusta-y-no-me-gusta-07-09", temas: [columnas]}
+- {titulo: "Cómo poner Calibre en otro idioma", url: "https://telegra.ph/Como-poner-Calibre-en-otro-idioma-10-08", temas: [inicio]}
+- {titulo: "Color en el detalle del libro (Calibre 6.25)", url: "https://telegra.ph/Darle-color-al-detalle-de-libro-en-versi%C3%B3n-625-de-Calibre-Como-se-hace-08-21", temas: [apariencia]}
+- {titulo: "Cómo convertir formatos de libros con Calibre", url: "https://telegra.ph/Como-convertir-formatos-de-libros-con-Calibre-07-11", temas: [conversion]}
+- {titulo: "Cómo dividir o unir EPUB", url: "https://telegra.ph/Como-dividir-y-unir-epub-con-calibre-02-24", temas: [edicion]}
+- {titulo: "Cómo crear nuestros propios íconos de Calibre", url: "https://telegra.ph/Como-crear-nuestros-propios-iconos-de-Calibre-10-18", temas: [apariencia]}
+- {titulo: "Complementos traducidos al español", url: "https://telegra.ph/Complementos-traducidos-al-espa%C3%B1ol-04-04", temas: [complementos]}
+- {titulo: "Cómo corregir el orden de autor", url: "https://telegra.ph/Corregir-orden-de-autor-09-19", temas: [metadatos]}
+- {titulo: "Cómo quitar de los títulos el «Spanish Edition»", url: "https://telegra.ph/Como-quitar-de-los-t%C3%ADtulos-el-spanish-edition-01-25", temas: [metadatos]}
+- {titulo: "Cómo crear una biblioteca virtual de nuestra lectura mensual", url: "https://telegra.ph/crear-una-Biblioteca-virtual-de-nuestra-lectura-mensual-11-23", temas: [etiquetas]}
+- {titulo: "Cómo poner índice en un libro", url: "https://telegra.ph/COMO-PONER-INDICE-EN-UN-LIBRO-EN-CALIBRE-10-09", temas: [edicion]}
+- {titulo: "Cómo tener una sola entrada con dos formatos distintos", url: "https://telegra.ph/Como-tener-una-entrada-sola-con-dos-formatos-distintos-07-13", temas: [agregar, conversion]}
+- {titulo: "Compartir paleta de colores", url: "https://telegra.ph/Compartir-paleta-de-colores-03-02", temas: [apariencia]}
+- {titulo: "Configurar etiquetas de categorías en español", url: "https://telegra.ph/Configurar-etiquetas-de-Categor%C3%ADas-en-espa%C3%B1ol-09-14", temas: [etiquetas]}
+- {titulo: "Configurar correo GMX", url: "https://teletype.in/@dunhill/k1fnrMbHfUw", temas: [correo]}
+- {titulo: "Convertir formatos de libros", url: "https://telegra.ph/Convertir-formatos-de-libros-08-16", temas: [conversion]}
+- {titulo: "Convertir automáticamente a nuestro formato favorito al ingresar un libro", url: "https://telegra.ph/Convertir-autom%C3%A1ticamente-a-nuestro-formato-favorito-al-ingresar-libro-08-27", temas: [conversion, agregar]}
+- {titulo: "Copia de seguridad", url: "https://telegra.ph/Copia-de-seguridad-08-17", temas: [biblioteca]}
+- {titulo: "Convertir de PDF o EPUB a CBR", url: "https://telegra.ph/Convertir-de-Pdf-o-Epub-a-Cbr-08-17", temas: [conversion]}
+- {titulo: "Convertir de CBR a EPUB", url: "https://telegra.ph/De-cbr-a-epub--imagen-a-color-12-24", temas: [conversion]}
+- {titulo: "Crear una biblioteca nueva", url: "https://telegra.ph/Crear-una-biblioteca-nueva-08-17", temas: [biblioteca]}
+- {titulo: "Crear un catálogo de nuestros libros", url: "https://telegra.ph/Crear-un-catalogo-de-nuestros-libros-08-17", temas: [biblioteca]}
+- {titulo: "Crear libro vacío", url: "https://telegra.ph/Crear-un-libro-vacio-04-20", temas: [agregar]}
+- {titulo: "Crear tutorial en Telegraph", url: "https://telegra.ph/Crear-tutorial-en-telegraph-03-30", temas: [inicio]}
+- {titulo: "Crear un PDF", url: "https://telegra.ph/Convertir-un-pdf-06-14", temas: [conversion]}
+- {titulo: "Crear exlibris con IA", url: "https://telegra.ph/Crear-exlibris-con-Ai-03-30", temas: [edicion]}
+- {titulo: "CSS - Modificar libros", url: "https://telegra.ph/Css---Modificar-libros-09-13", temas: [edicion]}
+- {titulo: "CSS - Efecto libro antiguo", url: "https://telegra.ph/CSS---Efecto-libro-antiguo-08-16", temas: [edicion]}
+- {titulo: "Curso básico para Calibre", url: "https://telegra.ph/Curso-b%C3%A1sico-para-Calibre-09-14", temas: [inicio]}
+- {titulo: "Cuando descargo los metadatos, ¿hay manera de ignorar ciertos autores?", url: "https://telegra.ph/Cuando-descargo-los-metadatos-hay-alguna-manera-de-ignorar-ciertos-autores-11-01", temas: [metadatos]}
+
+- {titulo: "Datos del autor", url: "https://telegra.ph/Datos-del-autor-12-21", temas: [metadatos]}
+- {titulo: "Descargar libros", url: "https://telegra.ph/Descargar-libros-08-17", temas: [agregar]}
+- {titulo: "Detalle del libro - explicación del código", url: "https://teletype.in/@dunhill/52DgLQpR6Wk", temas: [apariencia]}
+- {titulo: "Detalle del libro - modificar CSS", url: "https://teletype.in/@dunhill/-NPfgdNinjW", temas: [apariencia]}
+- {titulo: "Dejar espacios (con <p> e insertando carácter especial)", url: "https://telegra.ph/Dejar-espacios-con-p-e-insertando-car%C3%A1cter-especial-02-15", temas: [edicion]}
+- {titulo: "Diccionarios para PocketBook", url: "https://telegra.ph/C%C3%B3mo-instalar-diccionario-en-el-Pocketbook-03-05", temas: [pocketbook, lectura]}
+- {titulo: "DOC a EPUB", url: "https://telegra.ph/Doc-a-Epub-09-07", temas: [conversion]}
+- {titulo: "Dropbox - sincronizar Calibre", url: "https://telegra.ph/Dropbox---Sincronizar-Calibre-09-08", temas: [biblioteca, moviles]}
+
+- {titulo: "Editar libro - quitar sobrecubierta o doble portada", url: "https://teletype.in/@dunhill/WS4EaWpWItE", temas: [edicion]}
+- {titulo: "Eliminar caracteres en el título", url: "https://teletype.in/@dunhill69/Eliminar-caracteres-en-el-titulo-08-16", temas: [metadatos]}
+- {titulo: "Eliminar bibliotecas de Calibre (dos maneras)", url: "https://telegra.ph/Eliminar-una-biblioteca-en-Calibre-01-18", temas: [biblioteca]}
+- {titulo: "Eliminar libros en grupo", url: "https://telegra.ph/Eliminar-libros-en-grupo-08-17", temas: [biblioteca]}
+- {titulo: "Eliminar identificadores en masa", url: "https://telegra.ph/Eliminar-identificadores-desde-la-barra-de-etiquetas-04-20", temas: [metadatos]}
+- {titulo: "Eliminar imagen dentro del libro", url: "https://telegra.ph/Como-eliminar-una-imagen-dentro-del-libro-02-15", temas: [edicion]}
+- {titulo: "Enviar libro por correo con Calibre", url: "https://telegra.ph/Enviar-libro-por-correo-con-Calibre-08-17", temas: [correo]}
+- {titulo: "Eliminar notas o marcadores con Calibre", url: "https://telegra.ph/Eliminar-notas-o-marcadores-con-calibre-02-16", temas: [lectura]}
+- {titulo: "Entrar a Calibre fuera de casa (Vodafone)", url: "https://telegra.ph/Entrar-a-Calibre-fuera-de-casa-Vodafone-08-07", temas: [correo]}
+- {titulo: "Estilo paleta de colores", url: "https://teletype.in/@dunhill/OeJLUpVnLhp", temas: [apariencia]}
+- {titulo: "Etiquetas", url: "https://telegra.ph/Etiquetas-08-22", temas: [etiquetas]}
+- {titulo: "Etiquetas jerárquicas", url: "https://telegra.ph/Etiquetas-a%C3%B1adidas-o-Jer%C3%A1rquicas-07-15", temas: [etiquetas]}
+- {titulo: "Etiqueta al agregar libro", url: "https://telegra.ph/Etiqueta-al-agregar-libros-07-09", temas: [etiquetas, agregar]}
+- {titulo: "Envío de correo - configuraciones", url: "https://telegra.ph/Env%C3%ADo-de-Correo---Configuraciones-10-14", temas: [correo]}
+- {titulo: "Evitar la sinopsis duplicada", url: "https://telegra.ph/Evitar-la-sinopsis-duplicada-11-09", temas: [metadatos]}
+- {titulo: "Expresiones regulares", url: "https://telegra.ph/Expresiones-regulares-08-18", temas: [metadatos, etiquetas]}
+- {titulo: "Exlibris", url: "https://telegra.ph/Poner-ex-libris-03-04", temas: [edicion]}
+- {titulo: "Exportar todos los libros de un autor a una sola carpeta", url: "https://telegra.ph/Exportar-todos-los-libros-de-un-autor-a-una-sola-carpeta-10-30", temas: [biblioteca]}
+- {titulo: "Exportar / importar biblioteca", url: "https://teletype.in/@dunhill/nNuphgI4cc9", temas: [biblioteca]}
+
+- {titulo: "Fecha para releídos (año)", url: "https://telegra.ph/Fechas-para-rele%C3%ADdos-07-31", temas: [columnas]}
+- {titulo: "Filtrar por varios autores", url: "https://telegra.ph/Filtrar-por-varios-autores-10-25", temas: [etiquetas]}
+- {titulo: "Filtrar por más de 4 autores", url: "https://telegra.ph/Filtrar-por-m%C3%A1s-de-4-autores-01-13", temas: [etiquetas]}
+- {titulo: "Filtro de búsqueda", url: "https://telegra.ph/Filtro-de-b%C3%BAsqueda-09-13", temas: [etiquetas]}
+- {titulo: "Fondo de madera", url: "https://telegra.ph/Fondo-de-madera-08-18", temas: [apariencia]}
+- {titulo: "Formato KEPUB", url: "https://telegra.ph/Formatos-Kepub-08-23", temas: [conversion, kobo]}
+- {titulo: "Formato UTF-8", url: "https://telegra.ph/Formato-UTF-8-02-12", temas: [conversion]}
+- {titulo: "Foto del autor en la vista principal", url: "https://telegra.ph/Tener-la-foto-del-autor-en-vista-principal-02-05", temas: [apariencia]}
+- {titulo: "FreeFileSync - copiar la biblioteca a otro disco externo", url: "https://telegra.ph/Free-File-Sync---Copiar-biblioteca-calibre-a-otro-disco-externo-09-07", temas: [biblioteca]}
+
+- {titulo: "Guardar configuración", url: "https://telegra.ph/Guardad-configuraci%C3%B3n-08-16", temas: [inicio, biblioteca]}
+
+- {titulo: "Habilitar lectura en voz alta con Calibre", url: "https://telegra.ph/Enable-read-aloud-12-12", temas: [lectura]}
+
+- {titulo: "Ícono de biblioteca - cambiar", url: "https://telegra.ph/Icono-de-Biblioteca---Cambio-12-16", autor: "@CanariasCraft", temas: [apariencia]}
+- {titulo: "Íconos en columnas", url: "https://telegra.ph/Iconos-en-columnas-09-21", temas: [apariencia, columnas]}
+- {titulo: "Íconos en el explorador de etiquetas", url: "https://teletype.in/@dunhill/hFgU_INdm-t", temas: [apariencia, etiquetas]}
+- {titulo: "Íconos para saber datos extra del libro", url: "https://telegra.ph/Iconos-para-saber-datos-extras-de-libros-08-02", temas: [apariencia]}
+- {titulo: "Ícono verde de verificación (columna Leído)", url: "https://telegra.ph/V-verde-verificaci%C3%B3n-en-columna-le%C3%ADdo-en-calibre-06-02-2", temas: [apariencia, columnas]}
+- {titulo: "Incluir metadatos", url: "https://telegra.ph/Incluir-Metadatos-08-23", temas: [metadatos]}
+- {titulo: "Incrustar fuentes en tus libros (especial para dislexia)", url: "https://telegra.ph/Incrusta-fuentes-de-letras-en-tus-libros-Especial-para-problemas-de-dislexia-10-07", autor: "@Inatxo", temas: [edicion]}
+- {titulo: "Información de serie en el detalle del libro", url: "https://telegra.ph/Como-tener-la-informaci%C3%B3n-de-la-serie-en-el-detalle-del-libro-04-03", temas: [apariencia, metadatos]}
+- {titulo: "Información emergente personalizable (Calibre 8.10)", url: "https://teletype.in/@dunhill69/vuXQm1rdERg", temas: [apariencia]}
+- {titulo: "Instalación de Calibre en Windows 11, cuando da problemas", url: "https://telegra.ph/Instalaci%C3%B3n-de-Calibre-en-Windows-11-Cuando-da-problemas-04-02", temas: [inicio]}
+- {titulo: "Imagen en categoría (no ícono)", url: "https://telegra.ph/Imagen-en-categor%C3%ADa-no-Icono-08-03", temas: [apariencia, etiquetas]}
+- {titulo: "Importar de forma automática", url: "https://telegra.ph/Importar-de-forma-autom%C3%A1tica-08-27", temas: [agregar]}
+
+- {titulo: "Kindle - sincronizar tus libros con Calibre", url: "https://telegra.ph/Como-sincronizar-tus-libros-en-el-Kindle-con-Calibre-09-08", temas: [kindle]}
+- {titulo: "Kindle - agregar segunda serie", url: "https://telegra.ph/Agregar-segunda-serie-para-que-se-vea-en-Kindle-11-12", temas: [kindle, metadatos]}
+- {titulo: "Kindle - pasar un EPUB al Kindle", url: "https://telegra.ph/Como-pasar-un-epub-a-un-kindle-05-21", temas: [kindle]}
+- {titulo: "Kindle - CSS", url: "https://telegra.ph/Kindle---CSS-08-27", temas: [kindle, edicion]}
+- {titulo: "Kindle - formato KFX", url: "https://telegra.ph/Kindle---Formato-Kfx-06-21", autor: "@YeraycitoQnap", temas: [kindle, conversion]}
+- {titulo: "Kindle - libros sin carátula", url: "https://telegra.ph/Kindle---Libros-sin-Caratulas-08-29", temas: [kindle]}
+- {titulo: "Kindle - ver la biblioteca de Calibre en el Kindle", url: "https://telegra.ph/Kindle---Ver-Biblioteca-de-Calibre-en-Kindle-09-20", temas: [kindle, correo]}
+- {titulo: "Kindle - bots para enviar al Kindle", url: "https://telegra.ph/Bot-para-enviar-al-Kindle-02-22", temas: [kindle]}
+- {titulo: "Kindle - crear diccionarios", url: "https://telegra.ph/Como-crear-diccionarios-para-el-kindle-01-31", temas: [kindle, lectura]}
+- {titulo: "Kobo - añadir fuentes", url: "https://telegra.ph/Kobo---A%C3%B1adir-fuentes-06-21", autor: "@Arduinoxino", temas: [kobo]}
+- {titulo: "Kobo - información de series", url: "https://telegra.ph/Kobo---informaci%C3%B3n-de-la-serie-03-19", temas: [kobo, metadatos]}
+- {titulo: "Kobo - diccionarios", url: "https://telegra.ph/Diccionarios-para-Kobo-01-31", temas: [kobo, lectura]}
+- {titulo: "Kobo - detalles del libro en la sinopsis", url: "https://teletype.in/@dunhill/U4P7hOuthhN", temas: [kobo]}
+
+- {titulo: "Libros duplicados", url: "https://telegra.ph/Libros-Duplicados-08-17", temas: [biblioteca]}
+- {titulo: "Libros de iCloud, cómo agregarlos a Calibre", url: "https://telegra.ph/Libros-iCloud-como-agregarlos-acalibre-12-21", temas: [agregar]}
+- {titulo: "Libros sin comentarios", url: "https://telegra.ph/Icono-de-falta-de-comentarios-en-libros-03-12", temas: [apariencia, metadatos]}
+- {titulo: "Libros físicos", url: "https://telegra.ph/Libros-f%C3%ADsicos-08-17", temas: [agregar]}
+- {titulo: "Leer libros con Calibre", url: "https://telegra.ph/Leer-Libros-con-Calibre-08-29", temas: [lectura]}
+- {titulo: "Localizar imágenes con el editor de Calibre", url: "https://telegra.ph/Localizar-imagenes-con-el-editor-02-17", autor: "@Lorenzo888", temas: [edicion]}
+
+- {titulo: "Manuales para maquetar libros electrónicos", url: "https://telegra.ph/Manuales-para-maquetear-libros-electr%C3%B3nicos-12-09", temas: [edicion]}
+- {titulo: "Mangas: convertirlos para leer en Kindle", url: "https://telegra.ph/Tutorial-para-convertir-Manga-para-Kindle-06-14", autor: "MKL", temas: [kindle, conversion]}
+- {titulo: "Marcar libros", url: "https://telegra.ph/Marcar-libros-01-22", temas: [etiquetas]}
+- {titulo: "Metadatos en español", url: "https://telegra.ph/Metadatos-en-Espa%C3%B1ol-02-18", temas: [metadatos]}
+- {titulo: "Modificar índice de libros", url: "https://telegra.ph/Modificar-%C3%ADndice-de-libros-09-05", temas: [edicion]}
+- {titulo: "Modificar formato de libro", url: "https://telegra.ph/Modificar-formato-de-libro-09-05", temas: [edicion]}
+- {titulo: "Modo depuración", url: "https://telegra.ph/Modo-depuraci%C3%B3n-11-03", temas: [inicio]}
+- {titulo: "Modo oscuro de Calibre (dark mode)", url: "https://telegra.ph/Modo-oscuro---Dark-mode-08-17", temas: [apariencia]}
+- {titulo: "Mostrar emblemas al lado de las portadas (leído, foto del autor, premio)", url: "https://telegra.ph/Mostrar-emblemas-al-lado-de-las-portadas-12-13", temas: [apariencia]}
+- {titulo: "Moon+ Reader y Calibre - ver la biblioteca", url: "https://telegra.ph/Moon-reader-y-Calibre---Ver-biblioteca-09-05", temas: [moviles]}
+- {titulo: "Mover la biblioteca a otra ubicación", url: "https://telegra.ph/Mover-biblioteca-a-una-ubicaci%C3%B3n-09-02", temas: [biblioteca]}
+- {titulo: "Mover la biblioteca a otra ubicación (método de Calibre)", url: "https://telegra.ph/Mover-una-biblioteca-a-cualquier-lugar-11-08", temas: [biblioteca]}
+
+- {titulo: "Que no borre los libros de la carpeta de origen", url: "https://telegra.ph/No-borre-libros-de-la-carpeta-de-origen-09-06", temas: [agregar]}
+- {titulo: "Nombre de autor", url: "https://telegra.ph/Nombre-de-Autor-09-06", temas: [metadatos]}
+- {titulo: "Noticias - cómo descargarlas", url: "https://telegra.ph/Noticias---Como-descargarlas-09-06", temas: [agregar]}
+- {titulo: "Novedades de Calibre 5.0", url: "https://telegra.ph/Nuevo-en-calibre-50-10-10", temas: [inicio]}
+
+- {titulo: "Ñ en el título", url: "https://telegra.ph/%C3%91-en-el-t%C3%ADtulo-09-06", temas: [metadatos]}
+
+- {titulo: "Obtener traductor, nombre original, revisión y fecha de edición de un libro", url: "https://telegra.ph/Obtener-Traductor-Nombre-original-Revisi%C3%B3n-y-fecha-de-edici%C3%B3n-de-un-libro-11-12", autor: "@Killo_3967", temas: [metadatos]}
+- {titulo: "OPF: no aparecen al copiar desde otra biblioteca", url: "https://telegra.ph/OPF-No-aparecen-al-copiar-desde-otra-librer%C3%ADa-11-08", autor: "@Inatxo", temas: [biblioteca, metadatos]}
+- {titulo: "Ordenando los nombres de autor", url: "https://telegra.ph/Ordenando-los-nombres-de-Autor-09-06", temas: [metadatos]}
+- {titulo: "Orden automático al ingresar libros", url: "https://telegra.ph/Orden-autom%C3%A1tico-al-agregar-libros-03-13", autor: "@Inatxo", temas: [agregar, metadatos]}
+- {titulo: "Orden de autor (Nombre Apellido)", url: "https://telegra.ph/Orden-de-Autor-Nombre-Apellido-09-23", autor: "@jaucar", temas: [metadatos]}
+- {titulo: "Ordenar biblioteca", url: "https://telegra.ph/Ordenar-biblioteca-09-06", temas: [biblioteca]}
+- {titulo: "Ordenar columnas", url: "https://telegra.ph/Ordenar-columnas-02-15", temas: [columnas]}
+- {titulo: "Ordenar según autores", url: "https://telegra.ph/Ordenar-seg%C3%BAn-Autores-09-07", temas: [metadatos]}
+- {titulo: "Ordenar autores", url: "https://telegra.ph/Ordenar-Autores-09-06", temas: [metadatos]}
+
+- {titulo: "Paleta de colores - usar una del foro oficial de Calibre", url: "https://telegra.ph/Como-poner-en-nuestro-Calibre-una-paleta-de-colores-de-las-que-est%C3%A1n-subidas-en-el-foro-oficial-de-Calibre-10-06", temas: [apariencia]}
+- {titulo: "Panel de conexiones de metadatos", url: "https://telegra.ph/Panel-de-Conexiones-de-Metadatos-10-14", temas: [metadatos]}
+- {titulo: "Poner una entrada en una parte", url: "https://telegra.ph/Poner-una-entrada-en-una-parte-Arreglo-libros-11-08", temas: [edicion]}
+- {titulo: "Poner íconos en etiquetas", url: "https://telegra.ph/Poner-Iconos-en-etiquetas-07-14", temas: [apariencia, etiquetas]}
+- {titulo: "Poner títulos en mayúsculas", url: "https://teletype.in/@dunhill69/IJXebiowgp1", temas: [metadatos]}
+- {titulo: "Pasos para activar la búsqueda de texto completo", url: "https://telegra.ph/Pasos-para-activar-la-b%C3%BAsqueda-a-texto-completo-en-Calibre-01-14", temas: [etiquetas]}
+- {titulo: "PDF a EPUB - cuando queda mal maquetado", url: "https://telegra.ph/Pdf-a-Epub---Cuando-queda-mal-maqueteado-09-07", temas: [conversion]}
+- {titulo: "PDF - sacar imágenes", url: "https://telegra.ph/PDF---Sacar-im%C3%A1genes-09-07", temas: [conversion]}
+- {titulo: "Poner nombre o dedicatoria en la portadilla de un ebook (HTML)", url: "https://telegra.ph/Para-poner-nombre-o-dedicatoria-en-una-portadilla-de-un-ebook-09-07", temas: [edicion]}
+- {titulo: "Poner nuestra dedicatoria en la portadilla de un libro", url: "https://telegra.ph/Poner-dedicatoria-nuestra-en-un-libro-en-la-portadilla-02-03", temas: [edicion]}
+- {titulo: "Pasar libros a otra biblioteca", url: "https://telegra.ph/Pasar-libros-a-otra-Biblioteca-09-07", temas: [biblioteca]}
+- {titulo: "Complementos - cómo se instalan", url: "https://telegra.ph/Plugin---Como-se-instala-08-23", temas: [complementos, inicio]}
+- {titulo: "Complemento - Biografías de autor desde Goodreads", url: "https://telegra.ph/Plugin-Bibliograf%C3%ADa-del-autor-desde-goodreads-12-24", temas: [complementos, metadatos]}
+- {titulo: "Complementos - Introducción", url: "https://telegra.ph/Plugin---Complementos-01-10", temas: [complementos]}
+- {titulo: "Complemento - Audiobook Duration", url: "https://telegra.ph/GUI-Plugin-AudioBook-Duration-11-14-2", temas: [complementos]}
+- {titulo: "Complemento - Count Pages", url: "https://telegra.ph/Plugin---Count-Pages-09-07", temas: [complementos]}
+- {titulo: "Complemento - Find Duplicates", url: "https://telegra.ph/Plugin---Find-Duplicates-09-18", temas: [complementos, biblioteca]}
+- {titulo: "Complemento - Find Duplicates: cómo instalarlo y aplicarlo", url: "https://telegra.ph/Find-Duplicate-como-instalarlo-y-aplicarlo-09-23", temas: [complementos, biblioteca]}
+- {titulo: "Complemento - Kobo Utilities: configuración", url: "https://telegra.ph/Configuraci%C3%B3n-del-plugin-Kobo-Utilities-04-02", temas: [complementos, kobo]}
+- {titulo: "Complemento - Goodreads", url: "https://telegra.ph/Plugin---Goodreads-08-23", temas: [complementos, metadatos]}
+- {titulo: "Complemento - Goodreads: cantidad de valoraciones y popularidad (método actualizado)", url: "https://telegra.ph/Plugin-goodreads-cuenta-rating-popularidad-del-libro-08-09", temas: [complementos, metadatos]}
+- {titulo: "Complementos oficiales de Calibre (listado)", url: "https://telegra.ph/Plugin-Oficiales-de-Calibre-09-07", temas: [complementos]}
+- {titulo: "Complemento - Resize Cover", url: "https://telegra.ph/Plugin-Resize-Cover-04-13", temas: [complementos]}
+- {titulo: "Complemento - Ebook Translator", url: "https://telegra.ph/Complemento-ebook-traductor-07-17", temas: [complementos, edicion]}
+- {titulo: "Complemento - Tematika (solo Argentina)", url: "https://telegra.ph/Plugin-Tematika-03-04", temas: [complementos, metadatos]}
+- {titulo: "Complemento - Quality Check: invertir «Apellido, Nombre» a «Nombre Apellido»", url: "https://telegra.ph/Plugin-Quality-Check---Revertir-Apellidos-Nombre-por-Nombre-Apellido-11-21", temas: [complementos, metadatos]}
+- {titulo: "Poner el ícono que se quiera en lugar de las estrellas (modo portadas)", url: "https://telegra.ph/PONER-EL-ICONO-QUE-SE-QUIERA-EN-LUGAR-DE-LAS-ESTRELLITAS-EN-VALORACI%C3%93N-EN-MODO-PORTADAS-11-03", temas: [apariencia]}
+- {titulo: "PocketBook - primeros pasos", url: "https://telegra.ph/Primeros-pasos-a-realizar-cuando-acabas-de-recibir-tu-pocketbook-01-27", temas: [pocketbook]}
+- {titulo: "PocketBook - dos formas de cargar libros sin cable", url: "https://telegra.ph/Pocketbook---Dos-formas-de-cargar-libros-sin-cable-06-15", temas: [pocketbook]}
+- {titulo: "PocketBook - leer en el móvil los libros comprados", url: "https://telegra.ph/Como-leer-en-vuestros-moviles-libros-comprados-en-acms-01-27", temas: [pocketbook, moviles]}
+- {titulo: "PocketBook - PocketBook Cloud", url: "https://telegra.ph/Pocketbook-Cloud-01-27", temas: [pocketbook]}
+- {titulo: "PocketBook - instalar diccionarios", url: "https://telegra.ph/Como-instalar-diccionarios-en-Pocketbook-01-31", autor: "@VCC_1982", temas: [pocketbook, lectura]}
+
+- {titulo: "Qué formatos abre Calibre", url: "https://telegra.ph/Que-formatos-abre-Calibre-08-23", temas: [inicio, conversion]}
+- {titulo: "Quitar etiquetas al añadir libros", url: "https://telegra.ph/Quitar-etiquetas-al-a%C3%B1adir-libros-02-18", temas: [etiquetas, agregar]}
+- {titulo: "Quitar indicadores en masa", url: "https://telegra.ph/Como-quitar-los-indicadores-en-masa-08-31", temas: [biblioteca]}
+
+- {titulo: "Recuperar los números de registro en la vista principal", url: "https://telegra.ph/Recuperar-n%C3%BAmeros-de-registros-en-la-vista-principal-08-03", temas: [apariencia]}
+- {titulo: "Reemplazar palabras en el libro", url: "https://telegra.ph/Reemplazar-palabras-en-el-libro-09-07", temas: [edicion]}
+- {titulo: "Reemplazar las estrellas de calificación por una imagen a elección", url: "https://telegra.ph/PONER-EL-ICONO-QUE-SE-QUIERA-EN-LUGAR-DE-LAS-ESTRELLITAS-EN-LA-COLUMNA-VALORACI%C3%93N-11-03", temas: [apariencia, columnas]}
+
+- {titulo: "Se corta un capítulo al convertir a EPUB", url: "https://telegra.ph/Se-corta-cap%C3%ADtulo-al-convertir-a-epub-08-21", autor: "@aurorasu", temas: [conversion]}
+- {titulo: "Saber en qué HTML está una imagen determinada", url: "https://telegra.ph/SABER-EN-QUE-HTML-EST%C3%81-UNA-DETERMINADA-IMAGEN-04-20", autor: "@Bizentte", temas: [edicion]}
+- {titulo: "Separar capítulos en archivos diferentes", url: "https://telegra.ph/Separar-capitulos-en-archivos-diferentes-10-07", temas: [edicion]}
+- {titulo: "Series - cómo se ordenan", url: "https://telegra.ph/Series---Como-se-ordenan-09-07", temas: [metadatos]}
+- {titulo: "Sinopsis dentro del libro", url: "https://telegra.ph/Como-poner-la-sinopsis-dentro-del-libro-10-31", temas: [edicion]}
+- {titulo: "Sinopsis dentro del libro (hacerla en Calibre)", url: "https://telegra.ph/Hacer-sinopsis-en-Calibre-10-31", temas: [edicion]}
+- {titulo: "Subrayar libros con Calibre", url: "https://telegra.ph/Subrayar-libros-con-Calibre-09-07", temas: [lectura]}
+
+- {titulo: "Traducir un complemento", url: "https://telegra.ph/Traducir-un-plugin-11-26", temas: [complementos]}
+- {titulo: "Traducir un libro", url: "https://telegra.ph/Como-traducir-un-libro-02-13", temas: [edicion]}
+- {titulo: "TTS en Calibre", url: "https://telegra.ph/TTS-en-Calibre-09-21", temas: [lectura]}
+
+- {titulo: "Unir una saga", url: "https://telegra.ph/Unir-una-saga-09-12", temas: [edicion]}
+- {titulo: "Unir dos páginas HTML", url: "https://telegra.ph/Unir-dos-p%C3%A1ginas-html-02-03", temas: [edicion]}
+
+- {titulo: "Valorizar la biblioteca (saber cuánto gastamos en libros)", url: "https://telegra.ph/Valorizar-Biblioteca-09-08", temas: [columnas]}
+- {titulo: "Valoración de Goodreads con decimales", url: "https://teletype.in/@dunhill69/Valoracion-Goodreads-en-decimales-09-08", temas: [columnas, metadatos]}
+- {titulo: "Ventana emergente de comentarios en Calibre", url: "https://telegra.ph/Ventana-Pop-up-en-Calibre-02-26", temas: [apariencia]}
+- {titulo: "Ver el estado de lectura de tu Kindle", url: "https://telegra.ph/Ver-el-estado-de-lectura-de-tu-Kindle-07-25", temas: [kindle]}
+- {titulo: "Vincular Calibre con Android", url: "https://telegra.ph/Vincular-Calibre-con-android-09-08", temas: [moviles]}
+- {titulo: "Vincular Calibre con el navegador del Kindle u otro lector (parte 1)", url: "https://telegra.ph/Vincular-Calibre-con-el-navegador-nativo-de-Kindle-o-cualquier-lector-que-tenga-navegador-Parte-1-08-06", temas: [kindle, correo]}
+- {titulo: "Vincular Calibre con un PocketBook", url: "https://telegra.ph/Vincular-Calibre-con-un-pocketbook-08-06", temas: [pocketbook]}
+- {titulo: "Vincular Calibre con Goodreads", url: "https://telegra.ph/Vincular-Calibre-con-Goodreads-09-08", temas: [metadatos]}
+- {titulo: "Visor de libros - poner barra lateral (como en Calibre 3)", url: "https://telegra.ph/Visor-de-libros---Poner-barra-lateral--como-versi%C3%B3n-3-de-Calibre-09-08", temas: [lectura]}
+- {titulo: "Visor de libros - leer en otro idioma", url: "https://telegra.ph/Leyendo-en-otro-idioma-con-el-visor-de-calibre-02-28", temas: [lectura]}
+- {titulo: "Ver números de página en el visor de Calibre", url: "https://telegra.ph/Ver-n%C3%BAmeros-de-p%C3%A1ginas-en-el-visor-de-Calibre-08-16", temas: [lectura]}

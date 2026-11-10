@@ -1,0 +1,90 @@
+/* Barra de letras del índice A–Z */
+.tut-letras {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin: 1rem 0 1.5rem;
+  position: sticky;
+  top: 3.6rem;
+  z-index: 1;
+  padding: 0.5rem 0;
+  background: var(--md-default-bg-color);
+}
+.tut-letras a {
+  display: inline-block;
+  min-width: 2rem;
+  padding: 0.2rem 0.4rem;
+  text-align: center;
+  font-weight: 700;
+  border-radius: 0.3rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+}
+.tut-letras a:hover {
+  background: var(--md-accent-fg-color);
+  color: var(--md-accent-bg-color);
+  border-color: transparent;
+}
+
+/* Renglones de tutoriales */
+.md-typeset ul li:has(> .tut-origen),
+.md-typeset ul li:has(> .tut-sin-enlace) {
+  margin-bottom: 0.35em;
+}
+.tut-autor {
+  font-size: 0.85em;
+  color: var(--md-default-fg-color--light);
+  margin-left: 0.3em;
+}
+.tut-nota {
+  font-size: 0.8em;
+  font-style: italic;
+  color: var(--md-default-fg-color--light);
+  margin-left: 0.3em;
+}
+.tut-nota::before { content: "("; }
+.tut-nota::after { content: ")"; }
+.tut-sin-enlace {
+  color: var(--md-default-fg-color--light);
+  text-decoration: line-through;
+}
+.tut-origen {
+  font-size: 0.65em;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.05em 0.45em;
+  margin-left: 0.4em;
+  border-radius: 1em;
+  vertical-align: middle;
+  color: var(--md-default-fg-color--light);
+  border: 1px solid var(--md-default-fg-color--lightest);
+}
+
+/* Que el salto a una letra no quede tapado por la barra fija */
+.md-typeset h2[id^="letra-"] {
+  scroll-margin-top: 7rem;
+}
+
+/* Filtro instantáneo del índice A–Z */
+.tut-filtro {
+  width: 100%;
+  padding: 0.6rem 0.8rem;
+  font-size: 0.8rem;
+  color: var(--md-default-fg-color);
+  background: var(--md-default-bg-color);
+  border: 2px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.4rem;
+  outline: none;
+}
+.tut-filtro:focus {
+  border-color: var(--md-accent-fg-color);
+}
+.md-typeset .tut-filtro-info {
+  margin: 0.4rem 0 0;
+  font-size: 0.75rem;
+  color: var(--md-default-fg-color--light);
+  min-height: 1em;
+}
+
+.tut-letras[hidden] {
+  display: none;
+}
