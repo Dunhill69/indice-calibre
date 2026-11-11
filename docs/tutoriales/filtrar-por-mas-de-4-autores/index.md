@@ -1,5 +1,6 @@
 ---
 title: "Filtrar por más de 4 autores"
+licencia: cc-by-sa
 ---
 
 # Filtrar por más de 4 autores

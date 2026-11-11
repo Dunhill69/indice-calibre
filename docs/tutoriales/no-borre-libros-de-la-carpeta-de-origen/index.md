@@ -1,5 +1,6 @@
 ---
 title: "Que no borre los libros de la carpeta de origen"
+licencia: cc-by-sa
 ---
 
 # Que no borre los libros de la carpeta de origen

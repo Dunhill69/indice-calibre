@@ -1,5 +1,6 @@
 ---
 title: "Cambiar el idioma de un ebook desde Calibre"
+licencia: cc-by-sa
 ---
 
 # Cambiar el idioma de un ebook desde Calibre

@@ -1,5 +1,6 @@
 ---
 title: "Leer libros con Calibre"
+licencia: cc-by-sa
 ---
 
 # Leer libros con Calibre

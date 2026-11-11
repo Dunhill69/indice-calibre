@@ -1,5 +1,6 @@
 ---
 title: "Poner el ícono que se quiera en lugar de las estrellas (modo portadas)"
+licencia: cc-by-sa
 ---
 
 # Poner el ícono que se quiera en lugar de las estrellas (modo portadas)

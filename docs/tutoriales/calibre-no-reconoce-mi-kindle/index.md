@@ -1,5 +1,6 @@
 ---
 title: "Calibre no reconoce mi Kindle"
+licencia: cc-by-sa
 ---
 
 # Calibre no reconoce mi Kindle

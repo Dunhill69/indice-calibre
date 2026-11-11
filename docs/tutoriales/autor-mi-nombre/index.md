@@ -1,5 +1,6 @@
 ---
 title: "Autor - Mi nombre"
+licencia: cc-by-sa
 ---
 
 # Autor - Mi nombre

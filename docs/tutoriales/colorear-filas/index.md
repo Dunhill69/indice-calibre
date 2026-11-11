@@ -1,5 +1,6 @@
 ---
 title: "Colorear filas"
+licencia: cc-by-sa
 ---
 
 # Colorear filas

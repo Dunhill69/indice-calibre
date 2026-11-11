@@ -1,5 +1,6 @@
 ---
 title: "Kindle - agregar segunda serie"
+licencia: cc-by-sa
 ---
 
 # Kindle - agregar segunda serie

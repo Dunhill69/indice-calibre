@@ -1,5 +1,6 @@
 ---
 title: "Mover la biblioteca a otra ubicación (método de Calibre)"
+licencia: cc-by-sa
 ---
 
 # Mover la biblioteca a otra ubicación (método de Calibre)

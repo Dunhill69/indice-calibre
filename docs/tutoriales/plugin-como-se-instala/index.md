@@ -1,5 +1,6 @@
 ---
 title: "Complementos - cómo se instalan"
+licencia: cc-by-sa
 ---
 
 # Complementos - cómo se instalan

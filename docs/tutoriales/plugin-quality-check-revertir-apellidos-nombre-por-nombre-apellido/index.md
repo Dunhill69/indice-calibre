@@ -1,5 +1,6 @@
 ---
 title: "Complemento - Quality Check: invertir «Apellido, Nombre» a «Nombre Apellido»"
+licencia: cc-by-sa
 ---
 
 # Complemento - Quality Check: invertir «Apellido, Nombre» a «Nombre Apellido»

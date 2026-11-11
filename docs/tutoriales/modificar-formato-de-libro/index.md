@@ -1,5 +1,6 @@
 ---
 title: "Modificar formato de libro"
+licencia: cc-by-sa
 ---
 
 # Modificar formato de libro

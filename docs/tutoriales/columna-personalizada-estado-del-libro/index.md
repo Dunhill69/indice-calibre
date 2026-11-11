@@ -1,5 +1,6 @@
 ---
 title: "Columna personalizada - Estado del libro"
+licencia: cc-by-sa
 ---
 
 # Columna personalizada - Estado del libro

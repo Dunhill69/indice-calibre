@@ -1,5 +1,6 @@
 ---
 title: "PocketBook - PocketBook Cloud"
+licencia: cc-by-sa
 ---
 
 # PocketBook - PocketBook Cloud

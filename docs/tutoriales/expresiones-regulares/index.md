@@ -1,5 +1,6 @@
 ---
 title: "Expresiones regulares"
+licencia: cc-by-sa
 ---
 
 # Expresiones regulares

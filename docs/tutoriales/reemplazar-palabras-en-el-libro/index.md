@@ -1,5 +1,6 @@
 ---
 title: "Reemplazar palabras en el libro"
+licencia: cc-by-sa
 ---
 
 # Reemplazar palabras en el libro

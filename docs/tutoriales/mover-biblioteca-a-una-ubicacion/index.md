@@ -1,5 +1,6 @@
 ---
 title: "Mover la biblioteca a otra ubicación"
+licencia: cc-by-sa
 ---
 
 # Mover la biblioteca a otra ubicación

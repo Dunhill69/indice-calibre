@@ -1,5 +1,6 @@
 ---
 title: "Eliminar libros en grupo"
+licencia: cc-by-sa
 ---
 
 # Eliminar libros en grupo

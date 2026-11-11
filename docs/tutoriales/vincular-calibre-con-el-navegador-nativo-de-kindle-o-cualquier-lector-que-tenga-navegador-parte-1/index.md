@@ -1,5 +1,6 @@
 ---
 title: "Vincular Calibre con el navegador del Kindle u otro lector (parte 1)"
+licencia: cc-by-sa
 ---
 
 # Vincular Calibre con el navegador del Kindle u otro lector (parte 1)

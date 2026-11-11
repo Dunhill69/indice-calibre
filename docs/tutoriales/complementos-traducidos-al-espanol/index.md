@@ -1,5 +1,6 @@
 ---
 title: "Complementos traducidos al español"
+licencia: cc-by-sa
 ---
 
 # Complementos traducidos al español

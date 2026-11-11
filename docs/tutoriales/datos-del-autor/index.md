@@ -1,5 +1,6 @@
 ---
 title: "Datos del autor"
+licencia: cc-by-sa
 ---
 
 # Datos del autor

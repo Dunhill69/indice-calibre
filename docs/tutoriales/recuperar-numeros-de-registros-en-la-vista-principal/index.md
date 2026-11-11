@@ -1,5 +1,6 @@
 ---
 title: "Recuperar los números de registro en la vista principal"
+licencia: cc-by-sa
 ---
 
 # Recuperar los números de registro en la vista principal

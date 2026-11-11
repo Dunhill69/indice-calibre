@@ -1,5 +1,6 @@
 ---
 title: "Abrir libro al azar con Calibre"
+licencia: cc-by-sa
 ---
 
 # Abrir libro al azar con Calibre

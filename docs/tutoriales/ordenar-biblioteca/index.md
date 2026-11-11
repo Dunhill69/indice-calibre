@@ -1,5 +1,6 @@
 ---
 title: "Ordenar biblioteca"
+licencia: cc-by-sa
 ---
 
 # Ordenar biblioteca

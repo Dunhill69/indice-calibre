@@ -1,5 +1,6 @@
 ---
 title: "Agregar íconos en menú contextual"
+licencia: cc-by-sa
 ---
 
 # Agregar íconos en menú contextual

@@ -1,5 +1,6 @@
 ---
 title: "Manuales para maquetar libros electrónicos"
+licencia: cc-by-sa
 ---
 
 # Manuales para maquetar libros electrónicos

@@ -1,5 +1,6 @@
 ---
 title: "Ordenar autores"
+licencia: cc-by-sa
 ---
 
 # Ordenar autores

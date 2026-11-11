@@ -1,5 +1,6 @@
 ---
 title: "Agregar fuentes a tu dispositivo de lectura"
+licencia: cc-by-sa
 ---
 
 # Agregar fuentes a tu dispositivo de lectura

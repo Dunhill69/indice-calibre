@@ -1,5 +1,6 @@
 ---
 title: "Cambiar íconos de Calibre"
+licencia: cc-by-sa
 ---
 
 # Cambiar íconos de Calibre

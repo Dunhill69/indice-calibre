@@ -1,5 +1,6 @@
 ---
 title: "Crear un catálogo de nuestros libros"
+licencia: cc-by-sa
 ---
 
 # Crear un catálogo de nuestros libros

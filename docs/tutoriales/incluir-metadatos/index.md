@@ -1,5 +1,6 @@
 ---
 title: "Incluir metadatos"
+licencia: cc-by-sa
 ---
 
 # Incluir metadatos

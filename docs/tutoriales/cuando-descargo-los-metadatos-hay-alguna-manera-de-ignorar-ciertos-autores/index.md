@@ -1,5 +1,6 @@
 ---
 title: "Cuando descargo los metadatos, ¿hay manera de ignorar ciertos autores?"
+licencia: cc-by-sa
 ---
 
 # Cuando descargo los metadatos, ¿hay manera de ignorar ciertos autores?

@@ -6,10 +6,14 @@ site_url: https://dunhill69.github.io/indice-calibre/
 repo_url: https://github.com/Dunhill69/indice-calibre
 repo_name: Dunhill69/indice-calibre
 edit_uri: ""
-copyright: Cada tutorial pertenece a su autor · Índice mantenido por el grupo Calibre en Español
+copyright: >-
+  Cada tutorial pertenece a su autor ·
+  <a href="https://dunhill69.github.io/indice-calibre/colaborar/#licencia">Licencias</a> ·
+  Índice mantenido por la comunidad Calibre en Español
 
 theme:
   name: material
+  custom_dir: overrides
   language: es
   icon:
     logo: material/bookshelf

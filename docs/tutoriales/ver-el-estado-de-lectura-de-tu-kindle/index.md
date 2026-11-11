@@ -1,5 +1,6 @@
 ---
 title: "Ver el estado de lectura de tu Kindle"
+licencia: cc-by-sa
 ---
 
 # Ver el estado de lectura de tu Kindle

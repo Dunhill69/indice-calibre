@@ -1,5 +1,6 @@
 ---
 title: "Visor de libros - poner barra lateral (como en Calibre 3)"
+licencia: cc-by-sa
 ---
 
 # Visor de libros - poner barra lateral (como en Calibre 3)

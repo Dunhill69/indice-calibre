@@ -1,5 +1,6 @@
 ---
 title: "Complemento - Tematika (solo Argentina)"
+licencia: cc-by-sa
 ---
 
 # Complemento - Tematika (solo Argentina)

@@ -1,5 +1,6 @@
 ---
 title: "Colorear con reglas (Colorines)"
+licencia: cc-by-sa
 ---
 
 # Colorear con reglas (Colorines)

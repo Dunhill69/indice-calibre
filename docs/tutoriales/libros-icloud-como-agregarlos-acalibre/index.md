@@ -1,5 +1,6 @@
 ---
 title: "Libros de iCloud, cómo agregarlos a Calibre"
+licencia: cc-by-sa
 ---
 
 # Libros de iCloud, cómo agregarlos a Calibre

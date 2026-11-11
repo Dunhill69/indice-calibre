@@ -1,5 +1,6 @@
 ---
 title: "Complemento - Goodreads"
+licencia: cc-by-sa
 ---
 
 # Complemento - Goodreads

@@ -1,5 +1,6 @@
 ---
 title: "Convertir de CBR a EPUB"
+licencia: cc-by-sa
 ---
 
 # Convertir de CBR a EPUB

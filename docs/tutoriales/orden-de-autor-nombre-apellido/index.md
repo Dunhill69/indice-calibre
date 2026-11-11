@@ -1,5 +1,6 @@
 ---
 title: "Orden de autor (Nombre Apellido)"
+licencia: cc-by-sa
 ---
 
 # Orden de autor (Nombre Apellido)

@@ -1,5 +1,6 @@
 ---
 title: "Colorear estrellas de calificación"
+licencia: cc-by-sa
 ---
 
 # Colorear estrellas de calificación

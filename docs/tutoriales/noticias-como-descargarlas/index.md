@@ -1,5 +1,6 @@
 ---
 title: "Noticias - cómo descargarlas"
+licencia: cc-by-sa
 ---
 
 # Noticias - cómo descargarlas

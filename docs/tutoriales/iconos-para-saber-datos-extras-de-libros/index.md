@@ -1,5 +1,6 @@
 ---
 title: "Íconos para saber datos extra del libro"
+licencia: cc-by-sa
 ---
 
 # Íconos para saber datos extra del libro

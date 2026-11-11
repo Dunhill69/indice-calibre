@@ -1,5 +1,6 @@
 ---
 title: "Mostrar emblemas al lado de las portadas (leído, foto del autor, premio)"
+licencia: cc-by-sa
 ---
 
 # Mostrar emblemas al lado de las portadas (leído, foto del autor, premio)

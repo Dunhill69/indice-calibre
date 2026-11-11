@@ -1,5 +1,6 @@
 ---
 title: "Columnas ocultas"
+licencia: cc-by-sa
 ---
 
 # Columnas ocultas

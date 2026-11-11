@@ -1,5 +1,6 @@
 ---
 title: "Configurar etiquetas de categorías en español"
+licencia: cc-by-sa
 ---
 
 # Configurar etiquetas de categorías en español

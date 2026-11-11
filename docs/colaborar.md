@@ -33,6 +33,12 @@ y cada tutorial en su carpeta dentro de `docs/tutoriales/`.
 
 ## Licencia
 
-Cada tutorial pertenece a su autor y se comparte bajo
-[Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es){ target=_blank }:
-se puede copiar y adaptar, siempre citando al autor y compartiendo con la misma licencia.
+Cada tutorial pertenece a su autor y siempre se muestra con su nombre.
+
+- **Tutoriales enviados por el formulario:** se publican bajo
+  [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.es){ target=_blank }
+  (se acepta al enviarlos): se pueden copiar y adaptar citando al autor y compartiendo con la misma licencia.
+- **Tutoriales que nacieron en el grupo de Telegram:** se publican en el índice con autorización de sus autores,
+  como siempre se hizo en el grupo. Para reutilizarlos fuera del índice, consultá al autor.
+
+Al pie de cada tutorial se indica cuál de los dos casos corresponde.

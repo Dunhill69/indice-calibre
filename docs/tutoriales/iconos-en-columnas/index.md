@@ -1,5 +1,6 @@
 ---
 title: "Íconos en columnas"
+licencia: cc-by-sa
 ---
 
 # Íconos en columnas

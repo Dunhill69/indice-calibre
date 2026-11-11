@@ -1,5 +1,6 @@
 ---
 title: "Cambiar fuentes en columnas"
+licencia: cc-by-sa
 ---
 
 # Cambiar fuentes en columnas

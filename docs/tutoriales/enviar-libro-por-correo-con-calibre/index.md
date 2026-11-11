@@ -1,5 +1,6 @@
 ---
 title: "Enviar libro por correo con Calibre"
+licencia: cc-by-sa
 ---
 
 # Enviar libro por correo con Calibre

@@ -1,5 +1,6 @@
 ---
 title: "Atajos de teclado"
+licencia: cc-by-sa
 ---
 
 # Atajos de teclado

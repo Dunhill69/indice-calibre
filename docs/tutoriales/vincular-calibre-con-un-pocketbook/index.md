@@ -1,5 +1,6 @@
 ---
 title: "Vincular Calibre con un PocketBook"
+licencia: cc-by-sa
 ---
 
 # Vincular Calibre con un PocketBook

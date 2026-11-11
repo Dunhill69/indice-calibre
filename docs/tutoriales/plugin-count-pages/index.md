@@ -1,5 +1,6 @@
 ---
 title: "Complemento - Count Pages"
+licencia: cc-by-sa
 ---
 
 # Complemento - Count Pages

@@ -1,5 +1,6 @@
 ---
 title: "Información de serie en el detalle del libro"
+licencia: cc-by-sa
 ---
 
 # Información de serie en el detalle del libro

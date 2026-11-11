@@ -1,5 +1,6 @@
 ---
 title: "Modificar índice de libros"
+licencia: cc-by-sa
 ---
 
 # Modificar índice de libros

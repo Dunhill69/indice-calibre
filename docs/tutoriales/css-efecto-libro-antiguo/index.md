@@ -1,5 +1,6 @@
 ---
 title: "CSS - Efecto libro antiguo"
+licencia: cc-by-sa
 ---
 
 # CSS - Efecto libro antiguo

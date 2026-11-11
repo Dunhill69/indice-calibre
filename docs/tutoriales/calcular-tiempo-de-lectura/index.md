@@ -1,5 +1,6 @@
 ---
 title: "Calcular tiempo de lectura"
+licencia: cc-by-sa
 ---
 
 # Calcular tiempo de lectura

@@ -1,5 +1,6 @@
 ---
 title: "Eliminar identificadores en masa"
+licencia: cc-by-sa
 ---
 
 # Eliminar identificadores en masa

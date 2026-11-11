@@ -1,5 +1,6 @@
 ---
 title: "Kindle - pasar un EPUB al Kindle"
+licencia: cc-by-sa
 ---
 
 # Kindle - pasar un EPUB al Kindle

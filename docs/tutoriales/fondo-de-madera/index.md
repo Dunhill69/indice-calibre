@@ -1,5 +1,6 @@
 ---
 title: "Fondo de madera"
+licencia: cc-by-sa
 ---
 
 # Fondo de madera

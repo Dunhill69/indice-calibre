@@ -1,5 +1,6 @@
 ---
 title: "Etiquetas"
+licencia: cc-by-sa
 ---
 
 # Etiquetas

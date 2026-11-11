@@ -1,5 +1,6 @@
 ---
 title: "Kindle - ver la biblioteca de Calibre en el Kindle"
+licencia: cc-by-sa
 ---
 
 # Kindle - ver la biblioteca de Calibre en el Kindle

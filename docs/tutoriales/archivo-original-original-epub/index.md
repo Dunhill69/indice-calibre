@@ -1,5 +1,6 @@
 ---
 title: "Archivo original (original_epub)"
+licencia: cc-by-sa
 ---
 
 # Archivo original (original\_epub)

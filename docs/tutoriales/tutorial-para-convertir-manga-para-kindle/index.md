@@ -1,5 +1,6 @@
 ---
 title: "Mangas: convertirlos para leer en Kindle"
+licencia: autorizacion
 ---
 
 # Mangas: convertirlos para leer en Kindle

@@ -1,5 +1,6 @@
 ---
 title: "Barra de herramientas secundaria"
+licencia: cc-by-sa
 ---
 
 # Barra de herramientas secundaria

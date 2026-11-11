@@ -1,5 +1,6 @@
 ---
 title: "AZW3: solo por cable"
+licencia: cc-by-sa
 ---
 
 # AZW3: solo por cable

@@ -1,5 +1,6 @@
 ---
 title: "Bibliotecas virtuales - creación"
+licencia: cc-by-sa
 ---
 
 # Bibliotecas virtuales - creación

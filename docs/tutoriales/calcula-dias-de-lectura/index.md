@@ -1,5 +1,6 @@
 ---
 title: "Calcular días de lectura"
+licencia: cc-by-sa
 ---
 
 # Calcular días de lectura

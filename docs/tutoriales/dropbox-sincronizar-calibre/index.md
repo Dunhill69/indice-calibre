@@ -1,5 +1,6 @@
 ---
 title: "Dropbox - sincronizar Calibre"
+licencia: cc-by-sa
 ---
 
 # Dropbox - sincronizar Calibre

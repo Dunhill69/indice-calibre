@@ -1,5 +1,6 @@
 ---
 title: "Exlibris"
+licencia: cc-by-sa
 ---
 
 # Exlibris

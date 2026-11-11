@@ -1,5 +1,6 @@
 ---
 title: "Cómo crear nuestros propios íconos de Calibre"
+licencia: cc-by-sa
 ---
 
 # Cómo crear nuestros propios íconos de Calibre

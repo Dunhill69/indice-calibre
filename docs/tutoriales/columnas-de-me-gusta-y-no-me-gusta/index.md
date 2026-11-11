@@ -1,5 +1,6 @@
 ---
 title: "Columna personalizada - Me gusta / No me gusta"
+licencia: cc-by-sa
 ---
 
 # Columna personalizada - Me gusta / No me gusta

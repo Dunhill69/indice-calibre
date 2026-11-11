@@ -1,5 +1,6 @@
 ---
 title: "Compartir paleta de colores"
+licencia: cc-by-sa
 ---
 
 # Compartir paleta de colores

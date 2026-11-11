@@ -1,5 +1,6 @@
 ---
 title: "Agregar libros automáticamente"
+licencia: cc-by-sa
 ---
 
 # Agregar libros automáticamente

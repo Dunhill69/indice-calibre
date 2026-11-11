@@ -1,5 +1,6 @@
 ---
 title: "Cómo tener una sola entrada con dos formatos distintos"
+licencia: cc-by-sa
 ---
 
 # Cómo tener una sola entrada con dos formatos distintos

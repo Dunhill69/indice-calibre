@@ -1,5 +1,6 @@
 ---
 title: "Diccionarios para PocketBook"
+licencia: cc-by-sa
 ---
 
 # Diccionarios para PocketBook

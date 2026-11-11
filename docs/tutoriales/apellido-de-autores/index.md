@@ -1,5 +1,6 @@
 ---
 title: "Apellido de autores"
+licencia: cc-by-sa
 ---
 
 # Apellido de autores

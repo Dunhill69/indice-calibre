@@ -1,5 +1,6 @@
 ---
 title: "Envío de correo - configuraciones"
+licencia: cc-by-sa
 ---
 
 # Envío de correo - configuraciones

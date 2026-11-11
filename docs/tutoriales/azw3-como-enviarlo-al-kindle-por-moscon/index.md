@@ -1,5 +1,6 @@
 ---
 title: "AZW3: cómo enviarlo al Kindle"
+licencia: cc-by-sa
 ---
 
 # AZW3: cómo enviarlo al Kindle

@@ -1,5 +1,6 @@
 ---
 title: "Añadir un diccionario en Calibre"
+licencia: cc-by-sa
 ---
 
 # Añadir un diccionario en Calibre

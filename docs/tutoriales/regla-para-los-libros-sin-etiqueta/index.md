@@ -1,5 +1,6 @@
 ---
 title: "Colorear título de libros sin etiqueta"
+licencia: cc-by-sa
 ---
 
 # Colorear título de libros sin etiqueta

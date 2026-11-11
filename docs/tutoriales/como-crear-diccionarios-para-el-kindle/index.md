@@ -1,5 +1,6 @@
 ---
 title: "Kindle - crear diccionarios"
+licencia: cc-by-sa
 ---
 
 # Kindle - crear diccionarios

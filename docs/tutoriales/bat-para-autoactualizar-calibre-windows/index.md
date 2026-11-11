@@ -1,5 +1,6 @@
 ---
 title: "Bat para actualizar Calibre (Windows)"
+licencia: cc-by-sa
 ---
 
 # Bat para actualizar Calibre (Windows)

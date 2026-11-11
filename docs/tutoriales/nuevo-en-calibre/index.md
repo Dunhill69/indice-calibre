@@ -1,5 +1,6 @@
 ---
 title: "Novedades de Calibre 5.0"
+licencia: cc-by-sa
 ---
 
 # Novedades de Calibre 5.0

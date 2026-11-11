@@ -1,5 +1,6 @@
 ---
 title: "Complementos - Introducción"
+licencia: cc-by-sa
 ---
 
 # Complementos - Introducción

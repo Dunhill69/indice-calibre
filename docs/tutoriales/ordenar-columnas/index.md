@@ -1,5 +1,6 @@
 ---
 title: "Ordenar columnas"
+licencia: cc-by-sa
 ---
 
 # Ordenar columnas

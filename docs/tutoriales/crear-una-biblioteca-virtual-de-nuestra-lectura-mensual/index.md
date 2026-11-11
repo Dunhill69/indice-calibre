@@ -1,5 +1,6 @@
 ---
 title: "Cómo crear una biblioteca virtual de nuestra lectura mensual"
+licencia: cc-by-sa
 ---
 
 # Cómo crear una biblioteca virtual de nuestra lectura mensual

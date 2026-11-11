@@ -1,5 +1,6 @@
 ---
 title: "Orden automático al ingresar libros"
+licencia: cc-by-sa
 ---
 
 # Orden automático al ingresar libros

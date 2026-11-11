@@ -1,5 +1,6 @@
 ---
 title: "Convertir de PDF o EPUB a CBR"
+licencia: cc-by-sa
 ---
 
 # Convertir de PDF o EPUB a CBR

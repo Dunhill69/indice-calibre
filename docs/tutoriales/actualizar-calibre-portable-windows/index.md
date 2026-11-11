@@ -1,5 +1,6 @@
 ---
 title: "Actualizar Calibre portable"
+licencia: cc-by-sa
 ---
 
 # Actualizar Calibre portable

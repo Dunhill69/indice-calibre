@@ -1,5 +1,6 @@
 ---
 title: "Cómo quitar de los títulos el «Spanish Edition»"
+licencia: cc-by-sa
 ---
 
 # Cómo quitar de los títulos el «Spanish Edition»

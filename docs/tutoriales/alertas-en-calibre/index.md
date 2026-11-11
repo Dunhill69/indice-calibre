@@ -1,5 +1,6 @@
 ---
 title: "Alertas en Calibre"
+licencia: cc-by-sa
 ---
 
 # Alertas en Calibre

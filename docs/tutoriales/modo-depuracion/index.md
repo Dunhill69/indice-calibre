@@ -1,5 +1,6 @@
 ---
 title: "Modo depuración"
+licencia: cc-by-sa
 ---
 
 # Modo depuración

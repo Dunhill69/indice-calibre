@@ -1,5 +1,6 @@
 ---
 title: "Filtro de búsqueda"
+licencia: cc-by-sa
 ---
 
 # Filtro de búsqueda

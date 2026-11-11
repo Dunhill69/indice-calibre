@@ -1,5 +1,6 @@
 ---
 title: "Libros duplicados"
+licencia: cc-by-sa
 ---
 
 # Libros duplicados

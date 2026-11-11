@@ -1,5 +1,6 @@
 ---
 title: "Quitar indicadores en masa"
+licencia: cc-by-sa
 ---
 
 # Quitar indicadores en masa

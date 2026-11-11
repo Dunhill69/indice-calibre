@@ -1,5 +1,6 @@
 ---
 title: "Evitar la sinopsis duplicada"
+licencia: cc-by-sa
 ---
 
 # Evitar la sinopsis duplicada

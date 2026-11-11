@@ -1,5 +1,6 @@
 ---
 title: "Moon+ Reader y Calibre - ver la biblioteca"
+licencia: cc-by-sa
 ---
 
 # Moon+ Reader y Calibre - ver la biblioteca

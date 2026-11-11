@@ -1,5 +1,6 @@
 ---
 title: "Complemento - Find Duplicates"
+licencia: cc-by-sa
 ---
 
 # Complemento - Find Duplicates

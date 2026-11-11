@@ -1,5 +1,6 @@
 ---
 title: "Dejar espacios (con <p> e insertando carácter especial)"
+licencia: cc-by-sa
 ---
 
 # Dejar espacios (con \<p\> e insertando carácter especial)

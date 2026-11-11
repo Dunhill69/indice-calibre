@@ -1,5 +1,6 @@
 ---
 title: "Traducir un complemento"
+licencia: cc-by-sa
 ---
 
 # Traducir un complemento

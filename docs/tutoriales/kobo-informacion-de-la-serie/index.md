@@ -1,5 +1,6 @@
 ---
 title: "Kobo - información de series"
+licencia: cc-by-sa
 ---
 
 # Kobo - información de series

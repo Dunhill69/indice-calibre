@@ -1,5 +1,6 @@
 ---
 title: "Kindle - bots para enviar al Kindle"
+licencia: cc-by-sa
 ---
 
 # Kindle - bots para enviar al Kindle

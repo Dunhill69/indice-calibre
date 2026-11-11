@@ -1,5 +1,6 @@
 ---
 title: "Series - cómo se ordenan"
+licencia: cc-by-sa
 ---
 
 # Series - cómo se ordenan

@@ -1,5 +1,6 @@
 ---
 title: "Etiquetas jerárquicas"
+licencia: cc-by-sa
 ---
 
 # Etiquetas jerárquicas

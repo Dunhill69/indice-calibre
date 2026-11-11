@@ -1,5 +1,6 @@
 ---
 title: "Ícono verde de verificación (columna Leído)"
+licencia: cc-by-sa
 ---
 
 # Ícono verde de verificación (columna Leído)

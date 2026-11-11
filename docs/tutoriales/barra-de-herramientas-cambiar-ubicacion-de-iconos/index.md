@@ -1,5 +1,6 @@
 ---
 title: "Barra de herramientas - ubicar íconos"
+licencia: cc-by-sa
 ---
 
 # Barra de herramientas - ubicar íconos

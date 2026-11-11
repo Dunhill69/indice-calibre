@@ -1,5 +1,6 @@
 ---
 title: "Paleta de colores - usar una del foro oficial de Calibre"
+licencia: cc-by-sa
 ---
 
 # Paleta de colores - usar una del foro oficial de Calibre

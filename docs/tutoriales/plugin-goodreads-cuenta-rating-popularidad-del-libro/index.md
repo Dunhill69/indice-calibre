@@ -1,5 +1,6 @@
 ---
 title: "Complemento - Goodreads: cantidad de valoraciones y popularidad (método actualizado)"
+licencia: cc-by-sa
 ---
 
 # Complemento - Goodreads: cantidad de valoraciones y popularidad (método actualizado)

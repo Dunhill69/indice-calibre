@@ -1,5 +1,6 @@
 ---
 title: "Buscar duplicados entre dos bibliotecas"
+licencia: cc-by-sa
 ---
 
 # Buscar duplicados entre dos bibliotecas

@@ -1,5 +1,6 @@
 ---
 title: "Bibliotecas virtuales - búsquedas guardadas"
+licencia: cc-by-sa
 ---
 
 # Bibliotecas virtuales - búsquedas guardadas

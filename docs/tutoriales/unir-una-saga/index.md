@@ -1,5 +1,6 @@
 ---
 title: "Unir una saga"
+licencia: cc-by-sa
 ---
 
 # Unir una saga

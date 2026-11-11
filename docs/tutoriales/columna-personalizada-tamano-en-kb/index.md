@@ -1,5 +1,6 @@
 ---
 title: "Columna personalizada - Tamaño en KB"
+licencia: cc-by-sa
 ---
 
 # Columna personalizada - Tamaño en KB

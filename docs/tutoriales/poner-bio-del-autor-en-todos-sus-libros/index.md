@@ -1,5 +1,6 @@
 ---
 title: "Bibliografía de autor"
+licencia: cc-by-sa
 ---
 
 # Bibliografía de autor

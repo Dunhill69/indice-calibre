@@ -1,5 +1,6 @@
 ---
 title: "Exportar todos los libros de un autor a una sola carpeta"
+licencia: cc-by-sa
 ---
 
 # Exportar todos los libros de un autor a una sola carpeta

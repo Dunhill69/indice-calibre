@@ -1,5 +1,6 @@
 ---
 title: "Poner íconos en etiquetas"
+licencia: cc-by-sa
 ---
 
 # Poner íconos en etiquetas

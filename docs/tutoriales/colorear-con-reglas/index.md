@@ -1,5 +1,6 @@
 ---
 title: "Colorear con reglas"
+licencia: cc-by-sa
 ---
 
 # Colorear con reglas

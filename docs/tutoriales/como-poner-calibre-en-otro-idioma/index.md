@@ -1,5 +1,6 @@
 ---
 title: "Cómo poner Calibre en otro idioma"
+licencia: cc-by-sa
 ---
 
 # Cómo poner Calibre en otro idioma

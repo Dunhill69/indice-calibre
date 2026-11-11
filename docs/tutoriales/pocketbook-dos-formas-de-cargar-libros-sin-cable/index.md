@@ -1,5 +1,6 @@
 ---
 title: "PocketBook - dos formas de cargar libros sin cable"
+licencia: cc-by-sa
 ---
 
 # PocketBook - dos formas de cargar libros sin cable

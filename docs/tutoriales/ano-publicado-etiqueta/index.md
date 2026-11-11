@@ -1,5 +1,6 @@
 ---
 title: "Año publicado en etiqueta"
+licencia: cc-by-sa
 ---
 
 # Año publicado en etiqueta

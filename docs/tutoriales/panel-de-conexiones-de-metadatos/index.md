@@ -1,5 +1,6 @@
 ---
 title: "Panel de conexiones de metadatos"
+licencia: cc-by-sa
 ---
 
 # Panel de conexiones de metadatos

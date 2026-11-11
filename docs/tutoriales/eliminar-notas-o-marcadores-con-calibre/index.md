@@ -1,5 +1,6 @@
 ---
 title: "Eliminar notas o marcadores con Calibre"
+licencia: cc-by-sa
 ---
 
 # Eliminar notas o marcadores con Calibre

@@ -1,5 +1,6 @@
 ---
 title: "Saber en qué HTML está una imagen determinada"
+licencia: cc-by-sa
 ---
 
 # Saber en qué HTML está una imagen determinada

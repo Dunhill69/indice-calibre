@@ -1,5 +1,6 @@
 ---
 title: "Crear una biblioteca nueva"
+licencia: cc-by-sa
 ---
 
 # Crear una biblioteca nueva

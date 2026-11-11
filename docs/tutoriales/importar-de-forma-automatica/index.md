@@ -1,5 +1,6 @@
 ---
 title: "Importar de forma automática"
+licencia: cc-by-sa
 ---
 
 # Importar de forma automática

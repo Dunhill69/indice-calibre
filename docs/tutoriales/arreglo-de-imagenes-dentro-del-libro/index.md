@@ -1,5 +1,6 @@
 ---
 title: "Arreglo de imágenes dentro del libro"
+licencia: cc-by-sa
 ---
 
 # Arreglo de imágenes dentro del libro

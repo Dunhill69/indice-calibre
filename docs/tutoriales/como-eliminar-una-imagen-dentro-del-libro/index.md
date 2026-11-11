@@ -1,5 +1,6 @@
 ---
 title: "Eliminar imagen dentro del libro"
+licencia: cc-by-sa
 ---
 
 # Eliminar imagen dentro del libro

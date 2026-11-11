@@ -1,5 +1,6 @@
 ---
 title: "Etiqueta al agregar libro"
+licencia: cc-by-sa
 ---
 
 # Etiqueta al agregar libro

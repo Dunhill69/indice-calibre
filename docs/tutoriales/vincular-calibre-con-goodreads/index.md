@@ -1,5 +1,6 @@
 ---
 title: "Vincular Calibre con Goodreads"
+licencia: cc-by-sa
 ---
 
 # Vincular Calibre con Goodreads

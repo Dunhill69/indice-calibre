@@ -1,5 +1,6 @@
 ---
 title: "Biblioteca con características"
+licencia: cc-by-sa
 ---
 
 # Biblioteca con características

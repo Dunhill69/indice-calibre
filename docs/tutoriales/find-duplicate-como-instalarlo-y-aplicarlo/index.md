@@ -1,5 +1,6 @@
 ---
 title: "Complemento - Find Duplicates: cómo instalarlo y aplicarlo"
+licencia: cc-by-sa
 ---
 
 # Complemento - Find Duplicates: cómo instalarlo y aplicarlo

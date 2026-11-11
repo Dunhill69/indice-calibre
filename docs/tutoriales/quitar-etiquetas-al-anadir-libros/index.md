@@ -1,5 +1,6 @@
 ---
 title: "Quitar etiquetas al añadir libros"
+licencia: cc-by-sa
 ---
 
 # Quitar etiquetas al añadir libros

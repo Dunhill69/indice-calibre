@@ -1,5 +1,6 @@
 ---
 title: "Obtener traductor, nombre original, revisión y fecha de edición de un libro"
+licencia: cc-by-sa
 ---
 
 # Obtener traductor, nombre original, revisión y fecha de edición de un libro

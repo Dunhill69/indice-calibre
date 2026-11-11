@@ -1,5 +1,6 @@
 ---
 title: "Crear un PDF"
+licencia: cc-by-sa
 ---
 
 # Crear un PDF

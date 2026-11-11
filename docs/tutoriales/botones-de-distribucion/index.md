@@ -1,5 +1,6 @@
 ---
 title: "Botones de distribución, cómo se usan"
+licencia: cc-by-sa
 ---
 
 # Botones de distribución, cómo se usan

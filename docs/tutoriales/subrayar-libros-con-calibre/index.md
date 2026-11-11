@@ -1,5 +1,6 @@
 ---
 title: "Subrayar libros con Calibre"
+licencia: cc-by-sa
 ---
 
 # Subrayar libros con Calibre

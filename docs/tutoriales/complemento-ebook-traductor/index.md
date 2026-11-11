@@ -1,5 +1,6 @@
 ---
 title: "Complemento - Ebook Translator"
+licencia: cc-by-sa
 ---
 
 # Complemento - Ebook Translator

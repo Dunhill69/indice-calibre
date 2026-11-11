@@ -1,5 +1,6 @@
 ---
 title: "Convertir automáticamente a nuestro formato favorito al ingresar un libro"
+licencia: cc-by-sa
 ---
 
 # Convertir automáticamente a nuestro formato favorito al ingresar un libro

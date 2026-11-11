@@ -1,5 +1,6 @@
 ---
 title: "PDF - sacar imágenes"
+licencia: cc-by-sa
 ---
 
 # PDF - sacar imágenes

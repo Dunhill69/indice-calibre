@@ -1,5 +1,6 @@
 ---
 title: "Modo oscuro de Calibre (dark mode)"
+licencia: cc-by-sa
 ---
 
 # Modo oscuro de Calibre (dark mode)

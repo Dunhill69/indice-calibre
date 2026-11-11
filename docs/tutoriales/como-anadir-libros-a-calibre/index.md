@@ -1,5 +1,6 @@
 ---
 title: "Añadir libros, ¿cómo se hace?"
+licencia: cc-by-sa
 ---
 
 # Añadir libros, ¿cómo se hace?

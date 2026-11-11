@@ -1,5 +1,6 @@
 ---
 title: "Vincular Calibre con Android"
+licencia: cc-by-sa
 ---
 
 # Vincular Calibre con Android

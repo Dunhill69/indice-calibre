@@ -1,5 +1,6 @@
 ---
 title: "Kindle - libros sin carátula"
+licencia: cc-by-sa
 ---
 
 # Kindle - libros sin carátula

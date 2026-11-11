@@ -1,5 +1,6 @@
 ---
 title: "Instalación de Calibre en Windows 11, cuando da problemas"
+licencia: cc-by-sa
 ---
 
 # Instalación de Calibre en Windows 11, cuando da problemas

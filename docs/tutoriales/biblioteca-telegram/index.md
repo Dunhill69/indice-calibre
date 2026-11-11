@@ -1,5 +1,6 @@
 ---
 title: "Biblioteca Telegram"
+licencia: cc-by-sa
 ---
 
 # Biblioteca Telegram

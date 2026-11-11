@@ -1,5 +1,6 @@
 ---
 title: "Entrar a Calibre fuera de casa (Vodafone)"
+licencia: cc-by-sa
 ---
 
 # Entrar a Calibre fuera de casa (Vodafone)

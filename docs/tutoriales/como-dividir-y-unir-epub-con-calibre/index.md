@@ -1,5 +1,6 @@
 ---
 title: "Cómo dividir o unir EPUB"
+licencia: cc-by-sa
 ---
 
 # Cómo dividir o unir EPUB

@@ -1,5 +1,6 @@
 ---
 title: "Kindle - formato KFX"
+licencia: cc-by-sa
 ---
 
 # Kindle - formato KFX

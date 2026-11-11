@@ -1,5 +1,6 @@
 ---
 title: "Formato UTF-8"
+licencia: cc-by-sa
 ---
 
 # Formato UTF-8

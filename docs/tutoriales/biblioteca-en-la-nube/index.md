@@ -1,5 +1,6 @@
 ---
 title: "Biblioteca en la nube"
+licencia: cc-by-sa
 ---
 
 # Biblioteca en la nube

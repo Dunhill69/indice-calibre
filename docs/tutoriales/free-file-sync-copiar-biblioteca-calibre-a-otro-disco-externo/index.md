@@ -1,5 +1,6 @@
 ---
 title: "FreeFileSync - copiar la biblioteca a otro disco externo"
+licencia: cc-by-sa
 ---
 
 # FreeFileSync - copiar la biblioteca a otro disco externo

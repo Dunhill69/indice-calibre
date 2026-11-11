@@ -1,5 +1,6 @@
 ---
 title: "Crear libro vacío"
+licencia: cc-by-sa
 ---
 
 # Crear libro vacío

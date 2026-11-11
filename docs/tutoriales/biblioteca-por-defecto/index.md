@@ -1,5 +1,6 @@
 ---
 title: "Biblioteca por defecto"
+licencia: cc-by-sa
 ---
 
 # Biblioteca por defecto

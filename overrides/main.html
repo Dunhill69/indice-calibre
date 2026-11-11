@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{#- Nota de autoría y licencia al pie de cada tutorial.
+    licencia: cc-by-sa  -> tutoriales propios o enviados por el formulario
+    (cualquier otro valor o sin valor) -> tutoriales de otros autores, con su autorización -#}
+{% block content %}
+  {{ super() }}
+  {% if page.url.startswith("tutoriales/") %}
+    <aside class="tut-licencia">
+      {% if page.meta.licencia == "cc-by-sa" %}
+      <p>
+        Tutorial publicado en el <a href="{{ config.site_url }}">Índice Calibre en Español</a>
+        bajo la licencia
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" target="_blank" rel="license noopener">CC BY-SA 4.0</a>:
+        podés copiarlo y adaptarlo citando al autor y enlazando a esta página.
+      </p>
+      {% else %}
+      <p>
+        Tutorial publicado en el <a href="{{ config.site_url }}">Índice Calibre en Español</a>
+        con autorización de su autor, a quien pertenece. Para reutilizarlo, consultá al autor.
+      </p>
+      {% endif %}
+      <p class="tut-licencia-url">Fuente: <a href="{{ page.canonical_url }}">{{ page.canonical_url }}</a></p>
+    </aside>
+  {% endif %}
+{% endblock %}

@@ -1,5 +1,6 @@
 ---
 title: "Autores secundarios - evitar doble carpeta"
+licencia: cc-by-sa
 ---
 
 # Autores secundarios - evitar doble carpeta

@@ -1,5 +1,6 @@
 ---
 title: "Complemento - Biografías de autor desde Goodreads"
+licencia: cc-by-sa
 ---
 
 # Complemento - Biografías de autor desde Goodreads

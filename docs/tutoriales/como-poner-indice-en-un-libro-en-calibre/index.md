@@ -1,5 +1,6 @@
 ---
 title: "Cómo poner índice en un libro"
+licencia: cc-by-sa
 ---
 
 # Cómo poner índice en un libro

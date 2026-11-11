@@ -1,5 +1,6 @@
 ---
 title: "PocketBook - leer en el móvil los libros comprados"
+licencia: cc-by-sa
 ---
 
 # PocketBook - leer en el móvil los libros comprados

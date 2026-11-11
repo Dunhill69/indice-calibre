@@ -1,5 +1,6 @@
 ---
 title: "Curso básico para Calibre"
+licencia: cc-by-sa
 ---
 
 # Curso básico para Calibre

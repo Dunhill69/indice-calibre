@@ -1,5 +1,6 @@
 ---
 title: "OPF: no aparecen al copiar desde otra biblioteca"
+licencia: cc-by-sa
 ---
 
 # OPF: no aparecen al copiar desde otra biblioteca

@@ -1,5 +1,6 @@
 ---
 title: "Kobo - añadir fuentes"
+licencia: cc-by-sa
 ---
 
 # Kobo - añadir fuentes

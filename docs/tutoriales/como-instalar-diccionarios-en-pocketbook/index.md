@@ -1,5 +1,6 @@
 ---
 title: "PocketBook - instalar diccionarios"
+licencia: cc-by-sa
 ---
 
 # PocketBook - instalar diccionarios

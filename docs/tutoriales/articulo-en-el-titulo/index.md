@@ -1,5 +1,6 @@
 ---
 title: "Artículo en el título"
+licencia: cc-by-sa
 ---
 
 # Artículo en el título

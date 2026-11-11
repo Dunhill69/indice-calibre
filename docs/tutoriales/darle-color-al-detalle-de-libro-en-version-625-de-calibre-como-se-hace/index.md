@@ -1,5 +1,6 @@
 ---
 title: "Color en el detalle del libro (Calibre 6.25)"
+licencia: cc-by-sa
 ---
 
 # Color en el detalle del libro (Calibre 6.25)

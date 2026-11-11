@@ -1,5 +1,6 @@
 ---
 title: "Reemplazar las estrellas de calificación por una imagen a elección"
+licencia: cc-by-sa
 ---
 
 # Reemplazar las estrellas de calificación por una imagen a elección

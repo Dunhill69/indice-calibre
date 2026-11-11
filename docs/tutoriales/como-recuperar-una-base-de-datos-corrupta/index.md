@@ -1,5 +1,6 @@
 ---
 title: "Base de datos corrupta, cómo recuperarla"
+licencia: cc-by-sa
 ---
 
 # Base de datos corrupta, cómo recuperarla

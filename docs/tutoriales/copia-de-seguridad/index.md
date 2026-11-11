@@ -1,5 +1,6 @@
 ---
 title: "Copia de seguridad"
+licencia: cc-by-sa
 ---
 
 # Copia de seguridad

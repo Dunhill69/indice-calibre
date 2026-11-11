@@ -1,5 +1,6 @@
 ---
 title: "Qué formatos abre Calibre"
+licencia: cc-by-sa
 ---
 
 # Qué formatos abre Calibre

@@ -1,5 +1,6 @@
 ---
 title: "Incrustar fuentes en tus libros (especial para dislexia)"
+licencia: cc-by-sa
 ---
 
 # Incrustar fuentes en tus libros (especial para dislexia)

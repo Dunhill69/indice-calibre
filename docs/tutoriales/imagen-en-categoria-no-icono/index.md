@@ -1,5 +1,6 @@
 ---
 title: "Imagen en categoría (no ícono)"
+licencia: cc-by-sa
 ---
 
 # Imagen en categoría (no ícono)

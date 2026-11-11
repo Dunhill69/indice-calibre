@@ -1,5 +1,6 @@
 ---
 title: "Crear exlibris con IA"
+licencia: cc-by-sa
 ---
 
 # Crear exlibris con IA

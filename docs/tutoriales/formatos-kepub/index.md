@@ -1,5 +1,6 @@
 ---
 title: "Formato KEPUB"
+licencia: cc-by-sa
 ---
 
 # Formato KEPUB

@@ -1,5 +1,6 @@
 ---
 title: "Traducir un libro"
+licencia: cc-by-sa
 ---
 
 # Traducir un libro

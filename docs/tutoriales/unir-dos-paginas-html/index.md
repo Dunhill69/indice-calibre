@@ -1,5 +1,6 @@
 ---
 title: "Unir dos páginas HTML"
+licencia: cc-by-sa
 ---
 
 # Unir dos páginas HTML

@@ -1,5 +1,6 @@
 ---
 title: "Calibre Companion"
+licencia: cc-by-sa
 ---
 
 # Calibre Companion

@@ -1,5 +1,6 @@
 ---
 title: "Calibre servidor web"
+licencia: cc-by-sa
 ---
 
 # Calibre servidor web

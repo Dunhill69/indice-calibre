@@ -1,5 +1,6 @@
 ---
 title: "Ícono de biblioteca - cambiar"
+licencia: cc-by-sa
 ---
 
 # Ícono de biblioteca - cambiar

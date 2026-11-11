@@ -1,5 +1,6 @@
 ---
 title: "Localizar imágenes con el editor de Calibre"
+licencia: cc-by-sa
 ---
 
 # Localizar imágenes con el editor de Calibre

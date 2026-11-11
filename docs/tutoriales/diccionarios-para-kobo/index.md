@@ -1,5 +1,6 @@
 ---
 title: "Kobo - diccionarios"
+licencia: cc-by-sa
 ---
 
 # Kobo - diccionarios

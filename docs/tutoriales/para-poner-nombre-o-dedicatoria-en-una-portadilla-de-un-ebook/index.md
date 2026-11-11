@@ -1,5 +1,6 @@
 ---
 title: "Poner nombre o dedicatoria en la portadilla de un ebook (HTML)"
+licencia: cc-by-sa
 ---
 
 # Poner nombre o dedicatoria en la portadilla de un ebook (HTML)

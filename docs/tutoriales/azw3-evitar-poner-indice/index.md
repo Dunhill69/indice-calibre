@@ -1,5 +1,6 @@
 ---
 title: "AZW3: evitar poner índice"
+licencia: cc-by-sa
 ---
 
 # AZW3: evitar poner índice

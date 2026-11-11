@@ -1,5 +1,6 @@
 ---
 title: "Cómo convertir formatos de libros con Calibre"
+licencia: cc-by-sa
 ---
 
 # Cómo convertir formatos de libros con Calibre

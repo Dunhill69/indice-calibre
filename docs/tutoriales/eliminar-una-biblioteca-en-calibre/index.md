@@ -1,5 +1,6 @@
 ---
 title: "Eliminar bibliotecas de Calibre (dos maneras)"
+licencia: cc-by-sa
 ---
 
 # Eliminar bibliotecas de Calibre (dos maneras)

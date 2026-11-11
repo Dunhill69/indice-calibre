@@ -1,5 +1,6 @@
 ---
 title: "Complemento - Resize Cover"
+licencia: cc-by-sa
 ---
 
 # Complemento - Resize Cover

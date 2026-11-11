@@ -1,5 +1,6 @@
 ---
 title: "Fecha para releídos (año)"
+licencia: cc-by-sa
 ---
 
 # Fecha para releídos (año)

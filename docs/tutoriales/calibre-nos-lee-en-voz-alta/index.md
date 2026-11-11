@@ -1,5 +1,6 @@
 ---
 title: "Calibre nos lee en voz alta"
+licencia: cc-by-sa
 ---
 
 # Calibre nos lee en voz alta

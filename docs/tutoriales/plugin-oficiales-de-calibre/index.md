@@ -1,5 +1,6 @@
 ---
 title: "Complementos oficiales de Calibre (listado)"
+licencia: cc-by-sa
 ---
 
 # Complementos oficiales de Calibre (listado)

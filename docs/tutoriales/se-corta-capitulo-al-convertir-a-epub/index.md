@@ -1,5 +1,6 @@
 ---
 title: "Se corta un capítulo al convertir a EPUB"
+licencia: cc-by-sa
 ---
 
 # Se corta un capítulo al convertir a EPUB

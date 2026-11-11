@@ -1,5 +1,6 @@
 ---
 title: "Habilitar lectura en voz alta con Calibre"
+licencia: cc-by-sa
 ---
 
 # Habilitar lectura en voz alta con Calibre

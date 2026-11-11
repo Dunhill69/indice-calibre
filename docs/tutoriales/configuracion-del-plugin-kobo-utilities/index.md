@@ -1,5 +1,6 @@
 ---
 title: "Complemento - Kobo Utilities: configuración"
+licencia: cc-by-sa
 ---
 
 # Complemento - Kobo Utilities: configuración

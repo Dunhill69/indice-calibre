@@ -1,5 +1,6 @@
 ---
 title: "Búsquedas especiales"
+licencia: cc-by-sa
 ---
 
 # Búsquedas especiales

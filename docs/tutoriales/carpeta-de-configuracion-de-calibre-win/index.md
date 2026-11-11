@@ -1,5 +1,6 @@
 ---
 title: "Carpeta de configuración de Calibre (Windows 10)"
+licencia: cc-by-sa
 ---
 
 # Carpeta de configuración de Calibre (Windows 10)

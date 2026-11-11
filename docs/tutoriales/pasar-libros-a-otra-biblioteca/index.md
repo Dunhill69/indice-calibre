@@ -1,5 +1,6 @@
 ---
 title: "Pasar libros a otra biblioteca"
+licencia: cc-by-sa
 ---
 
 # Pasar libros a otra biblioteca

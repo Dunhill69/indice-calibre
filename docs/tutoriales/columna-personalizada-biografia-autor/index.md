@@ -1,5 +1,6 @@
 ---
 title: "Columna personalizada - Biografía del autor (sin complemento)"
+licencia: cc-by-sa
 ---
 
 # Columna personalizada - Biografía del autor (sin complemento)

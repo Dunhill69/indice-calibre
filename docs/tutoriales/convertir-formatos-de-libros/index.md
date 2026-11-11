@@ -1,5 +1,6 @@
 ---
 title: "Convertir formatos de libros"
+licencia: cc-by-sa
 ---
 
 # Convertir formatos de libros

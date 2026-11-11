@@ -1,5 +1,6 @@
 ---
 title: "Separar capítulos en archivos diferentes"
+licencia: cc-by-sa
 ---
 
 # Separar capítulos en archivos diferentes

@@ -1,5 +1,6 @@
 ---
 title: "Pasos para activar la búsqueda de texto completo"
+licencia: cc-by-sa
 ---
 
 # Pasos para activar la búsqueda de texto completo

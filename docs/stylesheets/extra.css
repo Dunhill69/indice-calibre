@@ -110,3 +110,16 @@
   color: var(--md-accent-bg-color);
   background: var(--md-accent-fg-color);
 }
+
+/* Nota de licencia al pie de los tutoriales */
+.md-typeset .tut-licencia {
+  margin-top: 2.5rem;
+  padding: 0.8rem 1rem;
+  font-size: 0.7rem;
+  color: var(--md-default-fg-color--light);
+  border-left: 3px solid var(--md-accent-fg-color);
+  background: var(--md-code-bg-color);
+  border-radius: 0.2rem;
+}
+.md-typeset .tut-licencia p { margin: 0.2rem 0; }
+.md-typeset .tut-licencia-url { word-break: break-all; }

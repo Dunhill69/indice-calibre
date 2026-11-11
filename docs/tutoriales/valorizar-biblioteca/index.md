@@ -1,5 +1,6 @@
 ---
 title: "Valorizar la biblioteca (saber cuánto gastamos en libros)"
+licencia: cc-by-sa
 ---
 
 # Valorizar la biblioteca (saber cuánto gastamos en libros)

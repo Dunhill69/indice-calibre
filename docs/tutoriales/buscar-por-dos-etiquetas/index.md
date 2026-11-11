@@ -1,5 +1,6 @@
 ---
 title: "Buscar por dos etiquetas"
+licencia: cc-by-sa
 ---
 
 # Buscar por dos etiquetas

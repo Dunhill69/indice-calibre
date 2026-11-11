@@ -1,5 +1,6 @@
 ---
 title: "Visor de libros - leer en otro idioma"
+licencia: cc-by-sa
 ---
 
 # Visor de libros - leer en otro idioma

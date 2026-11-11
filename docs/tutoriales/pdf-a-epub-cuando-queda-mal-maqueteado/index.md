@@ -1,5 +1,6 @@
 ---
 title: "PDF a EPUB - cuando queda mal maquetado"
+licencia: cc-by-sa
 ---
 
 # PDF a EPUB - cuando queda mal maquetado

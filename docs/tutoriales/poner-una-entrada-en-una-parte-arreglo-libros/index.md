@@ -1,5 +1,6 @@
 ---
 title: "Poner una entrada en una parte"
+licencia: cc-by-sa
 ---
 
 # Poner una entrada en una parte

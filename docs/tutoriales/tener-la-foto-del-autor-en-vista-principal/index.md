@@ -1,5 +1,6 @@
 ---
 title: "Foto del autor en la vista principal"
+licencia: cc-by-sa
 ---
 
 # Foto del autor en la vista principal

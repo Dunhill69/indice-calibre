@@ -1,5 +1,6 @@
 ---
 title: "PocketBook - primeros pasos"
+licencia: cc-by-sa
 ---
 
 # PocketBook - primeros pasos

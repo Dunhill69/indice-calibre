@@ -1,5 +1,6 @@
 ---
 title: "Metadatos en español"
+licencia: cc-by-sa
 ---
 
 # Metadatos en español

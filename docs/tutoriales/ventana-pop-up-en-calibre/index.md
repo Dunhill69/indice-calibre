@@ -1,5 +1,6 @@
 ---
 title: "Ventana emergente de comentarios en Calibre"
+licencia: cc-by-sa
 ---
 
 # Ventana emergente de comentarios en Calibre

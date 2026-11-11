@@ -1,5 +1,6 @@
 ---
 title: "Ver números de página en el visor de Calibre"
+licencia: cc-by-sa
 ---
 
 # Ver números de página en el visor de Calibre

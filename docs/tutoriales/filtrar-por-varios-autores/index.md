@@ -1,5 +1,6 @@
 ---
 title: "Filtrar por varios autores"
+licencia: cc-by-sa
 ---
 
 # Filtrar por varios autores

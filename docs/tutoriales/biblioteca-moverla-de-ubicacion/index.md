@@ -1,5 +1,6 @@
 ---
 title: "Biblioteca - moverla de ubicación"
+licencia: cc-by-sa
 ---
 
 # Biblioteca - moverla de ubicación

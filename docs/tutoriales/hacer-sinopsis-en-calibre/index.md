@@ -1,5 +1,6 @@
 ---
 title: "Sinopsis dentro del libro (hacerla en Calibre)"
+licencia: cc-by-sa
 ---
 
 # Sinopsis dentro del libro (hacerla en Calibre)

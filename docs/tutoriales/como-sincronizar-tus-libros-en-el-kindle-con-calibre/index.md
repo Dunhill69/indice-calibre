@@ -1,5 +1,6 @@
 ---
 title: "Kindle - sincronizar tus libros con Calibre"
+licencia: cc-by-sa
 ---
 
 # Kindle - sincronizar tus libros con Calibre

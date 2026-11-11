@@ -1,5 +1,6 @@
 ---
 title: "Barra de herramientas - ver más íconos"
+licencia: cc-by-sa
 ---
 
 # Barra de herramientas - ver más íconos

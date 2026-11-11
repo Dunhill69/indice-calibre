@@ -1,5 +1,6 @@
 ---
 title: "Poner nuestra dedicatoria en la portadilla de un libro"
+licencia: cc-by-sa
 ---
 
 # Poner nuestra dedicatoria en la portadilla de un libro

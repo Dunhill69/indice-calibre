@@ -1,5 +1,6 @@
 ---
 title: "Columna personalizada - Datos del libro"
+licencia: cc-by-sa
 ---
 
 # Columna personalizada - Datos del libro

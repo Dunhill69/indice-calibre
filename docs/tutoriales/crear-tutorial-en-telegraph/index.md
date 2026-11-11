@@ -1,5 +1,6 @@
 ---
 title: "Crear tutorial en Telegraph"
+licencia: cc-by-sa
 ---
 
 # Crear tutorial en Telegraph

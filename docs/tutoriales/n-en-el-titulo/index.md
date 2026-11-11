@@ -1,5 +1,6 @@
 ---
 title: "Ñ en el título"
+licencia: cc-by-sa
 ---
 
 # Ñ en el título

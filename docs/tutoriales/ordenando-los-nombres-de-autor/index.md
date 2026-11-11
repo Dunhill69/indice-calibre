@@ -1,5 +1,6 @@
 ---
 title: "Ordenando los nombres de autor"
+licencia: cc-by-sa
 ---
 
 # Ordenando los nombres de autor

@@ -1,5 +1,6 @@
 ---
 title: "Guardar configuración"
+licencia: cc-by-sa
 ---
 
 # Guardar configuración

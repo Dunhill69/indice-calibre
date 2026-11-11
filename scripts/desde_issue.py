@@ -189,7 +189,7 @@ def main():
     titulo_yaml = titulo.replace("\\", "\\\\").replace('"', '\\"')
 
     pagina = "\n".join([
-        "---", f'title: "{titulo_yaml}"', "---", "",
+        "---", f'title: "{titulo_yaml}"', "licencia: cc-by-sa", "---", "",
         f"# {titulo}", "",
         " · ".join(datos), "{ .tut-datos }", "", "---", "",
         contenido.strip(), "", "---", "",

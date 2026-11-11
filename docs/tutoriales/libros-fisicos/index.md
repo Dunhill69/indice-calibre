@@ -1,5 +1,6 @@
 ---
 title: "Libros físicos"
+licencia: cc-by-sa
 ---
 
 # Libros físicos

@@ -1,5 +1,6 @@
 ---
 title: "Cómo corregir el orden de autor"
+licencia: cc-by-sa
 ---
 
 # Cómo corregir el orden de autor
